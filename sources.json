@@ -1,0 +1,84 @@
+{
+  "sources": {
+    "factions": {
+      "url": "http://wahapedia.ru/wh40k11ed/Factions.csv",
+      "delimiter": "|"
+    },
+    "source": {
+      "url": "http://wahapedia.ru/wh40k11ed/Source.csv",
+      "delimiter": "|"
+    },
+    "datasheets": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets.csv",
+      "delimiter": "|"
+    },
+    "datasheets_abilities": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_abilities.csv",
+      "delimiter": "|"
+    },
+    "datasheets_keywords": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_keywords.csv",
+      "delimiter": "|"
+    },
+    "datasheets_models": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_models.csv",
+      "delimiter": "|"
+    },
+    "datasheets_options": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_options.csv",
+      "delimiter": "|"
+    },
+    "datasheets_wargear": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_wargear.csv",
+      "delimiter": "|"
+    },
+    "datasheets_unit_composition": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_unit_composition.csv",
+      "delimiter": "|"
+    },
+    "datasheets_models_cost": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_models_cost.csv",
+      "delimiter": "|"
+    },
+    "datasheets_stratagems": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_stratagems.csv",
+      "delimiter": "|"
+    },
+    "datasheets_enhancements": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_enhancements.csv",
+      "delimiter": "|"
+    },
+    "datasheets_detachment_abilities": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_detachment_abilities.csv",
+      "delimiter": "|"
+    },
+    "datasheets_leader": {
+      "url": "http://wahapedia.ru/wh40k11ed/Datasheets_leader.csv",
+      "delimiter": "|"
+    },
+    "stratagems": {
+      "url": "http://wahapedia.ru/wh40k11ed/Stratagems.csv",
+      "delimiter": "|"
+    },
+    "abilities": {
+      "url": "http://wahapedia.ru/wh40k11ed/Abilities.csv",
+      "delimiter": "|"
+    },
+    "enhancements": {
+      "url": "http://wahapedia.ru/wh40k11ed/Enhancements.csv",
+      "delimiter": "|"
+    },
+    "detachment_abilities": {
+      "url": "http://wahapedia.ru/wh40k11ed/Detachment_abilities.csv",
+      "delimiter": "|"
+    },
+    "detachments": {
+      "url": "http://wahapedia.ru/wh40k11ed/Detachments.csv",
+      "delimiter": "|"
+    },
+    "last_update": {
+      "url": "http://wahapedia.ru/wh40k11ed/Last_update.csv",
+      "delimiter": "|"
+    }
+  }
+}
