@@ -1,7 +1,11 @@
+```yaml
 name: Update Warhammer Data
 
 on:
   workflow_dispatch:
+
+  schedule:
+    - cron: "0 6 * * 0"
 
 permissions:
   contents: write
@@ -12,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
 
@@ -38,3 +42,4 @@ jobs:
             git commit -m "Update Warhammer data"
             git push
           fi
+```
