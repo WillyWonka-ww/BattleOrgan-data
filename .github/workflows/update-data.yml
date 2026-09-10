@@ -3,9 +3,8 @@ name: Update Warhammer Data
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "0 6 * * 0"
+    - cron: '0 6 * * 0'
 
 permissions:
   contents: write
