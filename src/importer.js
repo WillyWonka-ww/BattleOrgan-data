@@ -64,11 +64,12 @@ for (const [name, source] of Object.entries(sources)) {
 
     // Vérification du CSV
     const records = parse(csvText, {
-      columns: true,
-      delimiter: source.delimiter,
-      skip_empty_lines: true,
-      relax_quotes: true
-    });
+  columns: true,
+  delimiter: source.delimiter,
+  skip_empty_lines: true,
+  relax_quotes: true,
+  relax_column_count: true
+});
 
     console.log(`   📊 ${records.length} lignes importées`);
 
