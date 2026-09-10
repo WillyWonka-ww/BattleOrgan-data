@@ -1,1 +1,12 @@
-
+{
+  "name": "wahapedia-importer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import": "node src/importer.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
