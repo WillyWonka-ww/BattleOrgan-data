@@ -1,21 +1,21 @@
 datasheet_id|line|description|
 000000001|1|1 Warboss model|
 000000002|1|1 Warboss in Mega Armour model|
-000000003|1|1 Warboss on Warbike|
+000000003|1|1 Warboss on Warbike model|
 000000004|1|1 Weirdboy model|
 000000006|1|1 Big Mek in Mega Armour model|
 000000008|1|1 Ghazghkull Thraka model|
-000000009|1|1 Kaptin Badrukk – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000010|1|1 Boss Zagstruk – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000000009|1|1 Kaptin Badrukk model|
+000000010|1|1 Boss Zagstruk model|
 000000011|1|1 Boss Snikrot model|
 000000012|1|1 Mek model|
 000000013|1|1 Painboy model|
-000000015|1|1 Mad Dok Grotsnik – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000000015|1|1 Mad Dok Grotsnik model|
 000000016|1|1-2 Nob models|
 000000016|2|9-18 Boy models|
 000000017|1|10-20 Gretchin models|
-000000019|1|1-2 Spanners|
-000000019|2|4-8 Burna Boyz|
+000000019|1|1-2 Spanner models|
+000000019|2|4-8 Burna Boy models|
 000000020|1|1 Nob model|
 000000020|2|5 Tankbusta models|
 000000021|1|5-10 Nob models|
@@ -39,16 +39,16 @@ datasheet_id|line|description|
 000000041|1|3-6 Killa Kan models|
 000000042|1|1 Morkanaut model|
 000000043|1|1 Gorkanaut model|
-000000044|1|1-2 Spanners|
-000000044|2|4-8 Lootas|
+000000044|1|1-2 Spanner models|
+000000044|2|4-8 Loota models|
 000000045|1|1 Kaptin model|
 000000045|2|4-9 Flash Git models|
 000000046|1|1 Stompa model|
-000000049|1|4-8 Grot Tanks|
-000000050|1|1 Grot Mega-Tank|
-000000053|1|1 Lifta Wagon|
-000000054|1|1 Big Trakk|
-000000056|1|1 Kill Tank|
+000000049|1|4-8 Grot Tank models|
+000000050|1|1 Grot Mega-tank model|
+000000053|1|1 Lifta Wagon model|
+000000054|1|1 Big Trakk model|
+000000056|1|1 Kill Tank model|
 000000059|1|1 Gargantuan Squiggoth|
 000000060|1|1 Apothecary Biologis|
 000000061|1|1 Assault Sergeant|
@@ -914,7 +914,7 @@ datasheet_id|line|description|
 000001533|1|1 Terrax-pattern Termite|
 000001536|1|1 Big Mek with Shokk Attack Gun model|
 000001537|1|1 Deffkilla Wartrike model|
-000001545|1|1 Mekboy Workshop|
+000001545|1|1 Mekboy Workshop model|
 000001546|1|1 Abominant|
 000001553|1|1 Preacher|
 000001556|1|1 Haarken Worldclaimer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|

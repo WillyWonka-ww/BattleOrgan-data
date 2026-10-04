@@ -1,19 +1,16 @@
 datasheet_id|line|button|description|
 000000001|1|•|This model’s Kustom Choppa can be replaced with 1 Power Klaw.|
 000000001|2|•|This model’s Kustom Shoota can be replaced with one of the following:<ul class="dsUlC"><li>1 Kombi-rokkit</li><li>1 Kombi-skorcha</li></ul>|
-000000003|1|•|This model’s killsaw can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 big choppa</li><li>1 power klaw</li></ul>|
+000000003|1|•|This model's Killsaw can be replaced with one of the following: 1 Big Choppa, 1 Power Klaw|
 000000006|1|•|This model can be equipped with one of the following:<ul class="dsUlC"><li>1 Tellyport Blasta</li><li>1 Kustom Force Field</li></ul>|
 000000006|2|•|This model’s Kustom Shoota can be replaced with one of the following:<ul class="dsUlC"><li>1 Killsaw</li><li>1 Kombi-weapon</li><li>1 Kustom Mega-blasta</li></ul>|
-000000009|1|•|None|
-000000010|1|•|None|
-000000015|1|•|None|
 000000016|1|•|Any number of Nob models can each have their Kustom Choppa and Kombi-skorcha replaced with 1 Big Choppa.|
 000000016|2|•|Any number of Nob models can each have their Kustom Choppa replaced with 1 Power Klaw.|
 000000016|3|•|Any number of Nob models can each have their Kombi-skorcha replaced with one of the following:<ul class="dsUlC"><li>1 Kombi-rokkit</li><li>1 Kustom Shoota</li></ul>|
 000000016|4|•|For every 10 models in this unit, 1 Boy model can have their Shoota replaced with 1 Big Shoota.|
 000000016|5|•|For every 10 models in this unit, 1 Boy model can have their Shoota replaced with 1 Rokkit Launcha.|
 000000016|6|•|For every 10 models in this unit, 1 Boy model can have their Shoota replaced with 1 Burna.|
-000000019|1|•|Any number of Spanners can each have their big shoota replaced with one of the following:<ul style="list-style-type:circle"><li>1 kustom mega-blasta</li><li>1 rokkit launcha</li></ul>|
+000000019|1|•|Any number of Spanner models can each have their Big Shoota replaced with one of the following: 1 Kustom Mega-blasta, 1 Rokkit Launcha.|
 000000020|1|•|The Nob can have their Rokkit Pistol replaced with 1 Smash Hammer.|
 000000020|2|•|1 Tankbusta model can be equipped with one of the following:<ul class="dsUlC"><li>1 Busta Rokkit Launcha</li><li>1 Pulsa Rokkit</li></ul>|
 000000021|1|•|For every 5 models in this unit, 1 model can have their Kustom Krumpa and Kustom Shoota replaced with 1 Big Skorcha and 1 Kustom Choppa.|
@@ -45,17 +42,19 @@ datasheet_id|line|button|description|
 000000039|3|•|This model can be equipped with 1 Grabbin’ Klaw.|
 000000040|1|•|This model’s Big Shoota can be replaced with one of the following:<ul class="dsUlC"><li>1 Extra Klaw</li><li>1 Kustom Mega-blasta</li><li>1 Rokkit Launcha</li></ul>|
 000000040|2|•|This model’s Skorcha can be replaced with one of the following:<ul class="dsUlC"><li>1 Extra Klaw</li><li>1 Big Shoota</li><li>1 Kustom Mega-blasta</li><li>1 Rokkit Launcha</li></ul>|
-000000044|1|•|Any number of Spanners can each have their big shoota replaced with one of the following:<ul style="list-style-type:circle"><li>1 kustom mega-blasta</li><li>1 rokkit launcha</li></ul>|
-000000049|1|•|Any number of models can each have their big shoota replaced with one of the following:<ul style="list-style-type:circle"><li>1 grotzooka</li><li>1 kustom mega-blasta</li><li>1 rokkit launcha</li><li>1 skorcha</li></ul>|
-000000049|2|•|For every four models in this unit, one model can be equipped with one of the following in addition to any other weapons:<ul style="list-style-type:circle"><li>1 Grot tank shoota</li><li>1 grotzooka</li><li>1 kustom mega-blasta</li><li>1 rokkit launcha</li><li>1 skorcha</li></ul>|
-000000050|1|•|This model’s twin big shoota can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 twin grotzooka</li><li>1 twin kustom mega-blasta</li><li>1 twin rokkit launcha</li><li>1 twin skorcha</li></ul>|
-000000050|2|•|This model’s twin grotzooka can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 twin big shoota</li><li>1 twin kustom mega-blasta</li><li>1 twin rokkit launcha</li><li>1 twin skorcha</li></ul>|
-000000053|1|•|This model’s tracks and wheels can be replaced with 1 deff rolla.|
-000000053|2|•|This model can be equipped with 1 grabbin’ klaw.|
-000000053|3|•|This model can be equipped with 1 wreckin’ ball.|
-000000053|4|•|This model can be equipped with one of the following:<ul style="list-style-type:circle"><li>1 big shoota</li><li>2 big shootas</li><li>1 big shoota and 1 rokkit launcha</li><li>1 rokkit launcha</li><li>2 rokkit launchas</li></ul>|
-000000054|1|•|This model can be equipped with one of the following:<ul style="list-style-type:circle"><li>1 kannon</li><li>1 supa-kannon</li></ul>|
-000000056|1|•|This model’s bursta kannon can be replaced with 1 giga shoota.|
+000000044|1|•|Any number of Spanner models can each have their Big Shoota replaced with one of the following: 1 Kustom Mega-blasta, 1 Rokkit Launcha|
+000000049|1|•|Any number of models can each have their Grot Tank Shoota replaced with one of the following: 1 Grotzooka, 1 Kustom Mega-blasta, 1 Rokkit Launcha, 1 Skorcha|
+000000049|2|•|For every four models in this unit, one model can be equipped with one of the following in addition to any other weapons:<ul class="dsUlC"><li>1 Grot tank shoota</li><li>1 grotzooka</li><li>1 kustom mega-blasta</li><li>1 rokkit launcha</li><li>1 skorcha</li></ul>|
+000000050|1|•|This model's Dual Grotzooka can be replaced with one of the following: 1 Dual Big Shoota, 1 Dual Kustom Mega-blasta, 1 Dual Rokkit Launcha, 1 Dual Skorcha|
+000000050|2|•|This model's Dual Big Shoota can be replaced with one of the following: 1 Dual Grotzooka, 1 Dual Kustom Mega-blasta, 1 Dual Rokkit Launcha, 1 Dual Skorcha|
+000000053|1|•|This model can be equipped with 1 Grabbin Klaw'|
+000000053|2|•|This model can be equipped with one of the following: 1 Big Shoota and 1 Rokkit Launcha, 2 Big Shootas, 2 Rokkit Launcha|
+000000053|3|•|This model can be equipped with 1 Wreckin' Ball|
+000000054|1|•|This model can be equipped with one of the following: 1 Kannon, 1 Supa-kannon|
+000000056|1|•|This model can be equipped with up to 4 Big Shootas.|
+000000056|2|•|This model's 2 Big Shootas can be replaced with one of the following: 2 Rokkit Launcha, 2 Skorchas|
+000000056|3|•|This model's Tank Kannon and Crushin' Bulk can be replaced with 1 Deff Rolla and 3 Zzap Guns.|
+000000056|4|•|This model's Zzap Gun can be replaced with one of the following: 1 Kannon, 1 Lobba|
 000000059|1|•|This model can be equipped with one of the following:<ul style="list-style-type:circle"><li>1 kannon</li><li>1 supa-kannon</li></ul>|
 000000061|1|•|The Assault Sergeant’s bolt pistol can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 grav-pistol</li><li>1 hand flamer</li><li>1 inferno pistol</li><li>1 plasma pistol</li></ul>|
 000000061|2|•|The Assault Sergeant’s Astartes chainsword can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 power fist</li><li>1 power weapon</li><li>1 thunder hammer</li></ul>|
@@ -1164,7 +1163,6 @@ datasheet_id|line|button|description|
 000001527|2|•|This model’s Omnissian power axe can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 Astartes chainsword</li><li>1 power fist</li><li>1 thunder hammer</li></ul>|
 000001527|3|•|This model must be equipped with one of the following:<ul style="list-style-type:circle"><li>1 servo arm</li><li>1 conversion beamer</li><li>1 flamer, 1 plasma cutter and 2 servo-arms</li></ul>|
 000001533|1|•|This model’s 2 combi-bolters can be replaced with one of the following<ul style="list-style-type:circle"><li>2 heavy flamers</li><li>2 twin volkite chargers</li></ul>|
-000001545|1|•|None|
 000001553|1|•|This model’s zealot’s vindictor can be replaced with 1 holy pistol and 1 power weapon.|
 000001557|1|•|None|
 000001558|1|•|Any number of models can each have their lastrum storm bolter replaced with one of the following:<ul style="list-style-type:circle"><li>1 infernus firepike</li><li>1 twin adrathic destructor</li></ul>|

@@ -12,8 +12,9 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000000002|5|||Intimidating Motivation (Once per battle round, per army)|In your Movement phase, at the start or end of this unit’s move, you can select one friendly <span class="kwb">ORKS</span> unit within 6" of this unit. That unit:<br><ul><li>Is no longer battle-shocked.</li><li>Is riled up until the start of your next turn.</li></ul>|Datasheet||
 000000003|1|000008346||||Core||
 000000003|2|000003676||||Faction||
-000000003|3|||Speedboss|While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll.|Datasheet||
-000000003|4|||High-octane Fuel|Each time this model’s unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6" to the Move characteristic of models in this model’s unit.|Datasheet||
+000000003|3|000011126||||Faction||
+000000003|4|||Get Back in Da Race|In your Movement phase, at the start or end of this unit’s move, you can select one friendly Speed Freeks unit within 6" of this unit. That unit (and any units embarked within that unit):<br><ul><li>Is no longer battle-shocked.</li><li>Is riled up until the start of your next turn.</li></ul>|Datasheet||
+000000003|5|||Speedboss|This unit’s melee attacks have +1 to hit rolls.|Datasheet||
 000000004|1|000008339||||Core|D3|
 000000004|2|000010857||||Core||
 000000004|3|000011127||||Faction||
@@ -34,14 +35,14 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000000008|6|||SUPREME COMMANDER|If this model is in your army, it must be your <span class="kwb">WARLORD</span>.|Fortification (левая колонка)||
 000000009|1|000008346||||Core||
 000000009|2|000003676||||Faction||
-000000009|3|||Flashiest Gitz|While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Hit roll.|Datasheet||
-000000009|4|||Ded Glowy Ammo (Aura)|While an enemy Infantry unit is within 6" of this model, subtract 1 from the Toughness characteristic of models in that unit.|Datasheet||
-000000010|1|000008343||||Core||
-000000010|2|000008338||||Core|6+|
-000000010|3|000008346||||Core||
+000000009|3|||Flashiest Gitz|This unit’s ranged attacks can re-roll hit rolls.|Datasheet||
+000000009|4|||Ded Glowy Ammo|Enemy units within 6" of this model have -1 <b>T</b>.|Datasheet||
+000000010|1|000008346||||Core||
+000000010|2|000008343||||Core||
+000000010|3|000008338||||Core|6+|
 000000010|4|000003676||||Faction||
-000000010|5|||Drill Boss|While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll.|Datasheet||
-000000010|6|||Plummeting Descent|You can re-roll Charge rolls made for this model’s unit in a turn in which it was set up on the battlefield from Reserves.|Datasheet||
+000000010|5|||Drill Boss|This unit’s melee attacks have +1 to hit rolls.|Datasheet||
+000000010|6|||Plummeting Descent|If this unit made an ingress move this turn, this unit can re-roll charge rolls.|Datasheet||
 000000011|1|000008345||||Core||
 000000011|2|000008346||||Core||
 000000011|3|000008336||||Core||
@@ -57,11 +58,11 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000000013|2|000003676||||Faction||
 000000013|3|||Crude Surgery|In your Command phase, this unit heals 3 wounds.|Datasheet||
 000000013|4|||Catch Dat Red Bit (Once per battle, per unit)|When this model uses its <b>Crude Surgery</b> ability, you can add D3 to the number of wounds healed.<br><br><i>Place a Grot Orderly token next to the unit, removing it when this ability is used.</i>|Datasheet||
-000000015|1|000008338||||Core|5+|
-000000015|2|000008346||||Core||
+000000015|1|000008346||||Core||
+000000015|2|000008338||||Core|5+|
 000000015|3|000003676||||Faction||
-000000015|4|||Mad Dok|While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.|Datasheet||
-000000015|5|||One Scalpel Short of a Medpack|While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Fell Back.|Datasheet||
+000000015|4|||One Scalpel Short of a Medpack|When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being eligible to declare a charge.|Datasheet||
+000000015|5|||Mad Dok|In your Command phase, select one friendly Orks Infantry unit within 6" of this model, and select one of the following:<br><ul><li>That unit heals 3 wounds.</li><li><u>Or:</u> If all models in that unit have their starting number of wounds, revive one <span class="kwb">CHARACTER</span> model in that unit.</li></ul>|Datasheet||
 000000016|1|000003676||||Faction||
 000000016|2|||Ammo Runts (Once per battle, per unit)|In your Shooting phase, when this unit is selected to shoot, you can use this ability. If you do, this unit’s ranged attacks have +1 to hit rolls.<br><br><i>Place any number of Ammo Runt tokens next to the unit, removing them when this ability is used.</i>|Datasheet||
 000000016|3|||Tide of Muscle|In the Fight phase, if this unit made a charge move this turn, this unit’s melee attacks have [Lethal Hits].|Datasheet||
@@ -70,7 +71,7 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000000017|2|||Downtrodden|For the purposes of transport capacity, each 2 Gretchin models (rounding up) take up the space of 1 model.|Datasheet||
 000000017|3|||Thievin’ Scavengers|At the end of your Movement phase, if this unit is controlling an objective, that objective is secured.|Datasheet||
 000000019|1|000003676||||Faction||
-000000019|2|||Pyromaniaks|Each time a model in this unit makes a ranged attack with a burna that targets an enemy unit within 6", re-roll a Wound roll of 1. If the target of that attack is also within range of an objective marker, you can re-roll the Wound roll instead.|Datasheet||
+000000019|2|||Pyromaniaks|This unit’s attacks that target a unit within 6" of this unit can re-roll wound rolls of 1.|Datasheet||
 000000020|1|000003676||||Faction||
 000000020|2|||Rokkit Barrage|In your Shooting phase, when this unit has shot, select one enemy unit hit by those attacks. That unit makes a battle-shock roll, with -1 to that <b>battle-shock roll</b>.|Datasheet||
 000000020|3|||Bomb Squigs (Once per turn, twice per battle, per unit)|In your Movement phase, when this unit ends a normal move, you can select one visible enemy unit within 12" of this unit and roll one D6:<br><ul><li>On a 3+, that enemy unit suffers D3 mortal wounds.</li></ul><br><i>Place two Bomb Squig tokens next to the unit, removing one each time this ability is used.</i>|Datasheet||
@@ -148,7 +149,7 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000000043|5|||Gut Hatch|In your Movement phase, when this unit ends a normal move, units embarked within this unit can make an assault disembark move.|Datasheet||
 000000043|6|||Big an’ Stompy|This unit’s melee attacks can re-roll hit rolls of 1.|Datasheet||
 000000044|1|000003676||||Faction||
-000000044|2|||Dat’s Our Loot!|Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If that attack targets a unit that is within range of an objective marker, you can re-roll the Hit roll instead.|Datasheet||
+000000044|2|||Dat's Our Loot|<ul><li>This unit’s ranged attacks can re-roll hit rolls of 1.</li><li>This unit’s ranged attacks that target a unit within range of an objective can re-roll <b>hit rolls</b>.</li></ul>|Datasheet||
 000000045|1|000003676||||Faction||
 000000045|2|||Finderz Keeperz|In your Shooting phase, if any of the following apply, this unit’s ranged attacks have +1 <b>AP</b>:<br><ul><li>This unit is within range of an objective.</li><li>The target of that attack is within range of an <b>objective</b>.</li></ul>|Datasheet||
 000000046|1|000011125||||Core|10|
@@ -159,25 +160,31 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000000046|6|||Waaagh! Effigy|This unit is riled up.|Datasheet||
 000000049|1|000008339||||Core|1|
 000000049|2|000003676||||Faction||
-000000049|3|||Scatter!|In your opponent's Movement phase, when an enemy unit ends a Normal, Advance or Fall Back move within 8" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6".|Datasheet||
+000000049|3|||Scatter! (Once per phase, per unit)|In your opponent’s Movement phase, when an enemy unit ends a move within 8" of this unit, if this unit is unengaged, this unit can make a normal move of up to 6".|Datasheet||
 000000050|1|000008339||||Core|D3|
-000000050|2|000003676||||Faction||
-000000050|3|||Bizarrely Resilient|Each time an attack targets this model, worsen the Armour Penetration characteristic of that attack by 1.|Datasheet||
-000000053|1|000008339||||Core|D6|
-000000053|2|000003676||||Faction||
-000000053|3|||Da Bigger Dey Are, da Better Dey Drop|Each time an attack made with this model’s lifta-droppa destroys an enemy model that has the Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6.|Datasheet||
+000000050|2|000011125||||Core|4|
+000000050|3|000003676||||Faction||
+000000050|4|||Bizarrely Resilient|Attacks that target this unit have -1 <b>AP</b>.|Datasheet||
+000000053|1|000011125||||Core|6|
+000000053|2|000008339||||Core|D6|
+000000053|3|000003676||||Faction||
+000000053|4|||Da Bigger Dey Are, Da Better Dey Drop|In your Shooting phase, when this unit’s Lifta-droppa destroys an enemy <span class="kwb">MONSTER</span>/<span class="kwb">VEHICLE</span> model with Deadly Demise, that enemy model suffers a <b>Deadly Demise</b> on a roll of 3+, instead of a 6.|Datasheet||
 000000054|1|000008339||||Core|D3|
 000000054|2|000008334||||Core|12|
-000000054|3|000003676||||Faction||
-000000054|4|||Spiked Ram|Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds.|Datasheet||
-000000056|1|000008339||||Core|D6+2|
-000000056|2|000003676||||Faction||
-000000056|3|||Wall of Dakka|Each time this model makes a ranged attack that targets a unit within half range, add 1 to the Hit roll.|Datasheet||
+000000054|3|000011125||||Core|4|
+000000054|4|000003676||||Faction||
+000000054|5|||Spiked Ram|When this unit ends a charge move, you can select one enemy unit engaged with this unit. If you do, roll one D6:<br><ul><li>On a 2-5, that enemy unit suffers D3 mortal wounds.</li><li>On a 6, that enemy unit suffers 3 <b>mortal wounds</b>.</li></ul>|Datasheet||
+000000056|1|000011125||||Core|6|
+000000056|2|000008339||||Core|D6|
+000000056|3|000008334||||Core|12|
+000000056|4|000003676||||Faction||
+000000056|5|||Rolling Fortress|When an attack targets a friendly <span class="kwb">ORKS</span> unit that is not fully visible to the attacking model because of this unit, the target has the benefit of cover against that attack.|Datasheet||
+000000056|6|||Da Biggest Boom|In your Shooting phase, when this unit has shot, you can select one enemy unit hit by this unit’s Tank Kannon attacks. If you do, enemy units (excluding <span class="kwb">MONSTER</span>/<span class="kwb">VEHICLE</span> units) within 3" of that enemy unit make a battle-shock roll.|Datasheet||
 000000059|1|000008339||||Core|2D6|
 000000059|2|000008334||||Core|20|
 000000059|3|000003676||||Faction||
-000000059|4|||Gargantuan|Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding <span class="kwb">TITANIC</span> models) and terrain features that are 4" or less in height as if they were not there.|Datasheet||
-000000059|5|||Walking Bastion|This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it.|Datasheet||
+000000059|4|||Walking Bastion|This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it.|Datasheet||
+000000059|5|||Gargantuan|Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding <span class="kwb">TITANIC</span> models) and terrain features that are 4" or less in height as if they were not there.|Datasheet||
 000000060|1|000010857||||Core||
 000000060|2|000008350||||Faction||
 000000060|3|||Surgical Precision|While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.|Datasheet||
@@ -3277,9 +3284,9 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000001537|6|||Fuel-mixa Grot|This unit has +1 to advance rolls.|Datasheet||
 000001545|1|000008339||||Core|1|
 000001545|2|000003676||||Faction||
-000001545|3|||Ramshackle Cover|Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this <span class="kwb">FORTIFICATION</span>, that model has the Benefit of Cover against that attack.|Datasheet||
-000001545|4|||Workshop|When this <span class="kwb">FORTIFICATION</span> is set up, all parts of it must be set up within 1" of another part. At the end of your Movement phase, each friendly Orks Vehicle model within 12" of this <span class="kwb">FORTIFICATION</span> can regain up to D3 lost wounds (roll separately for each model). Each model can only be affected by this ability once per turn.|Datasheet||
-000001545|5|||Fortification|While an enemy unit is only within Engagement Range of one or more <span class="kwb">FORTIFICATIONS</span> from your army:<br><ul><li>That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.</li><li>Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so.</li></ul>|Datasheet||
+000001545|3|||Workshop|<ul><li>When this unit is set up, all parts of it must be set up in a single group, in which each part is within 1" of another part.</li><li>At the end of the Movement phase, each friendly  Orks Vehicle within 6" of this unit heals D3 wounds. Each friendly <span class="kwb">ORKS</span> <span class="kwb">VEHICLE</span> unit can only be affected by this ability once per turn.</li></ul>|Datasheet||
+000001545|4|||Fortification|While an enemy unit is engaged with only <span class="kwb">FORTIFICATION</span> units:<br><ul><li>That enemy unit can be selected as a target of ranged attacks.</li><li>When shooting that enemy unit, those ranged attacks have -1 to hit rolls (excluding [CLOSE-QUARTERS] attacks).</li><li>When that enemy unit is selected to make a fall-back move, if that enemy unit is only engaged with <span class="kwb">FORTIFICATION</span> units, and that enemy unit is not battle-shocked, hazard rolls made for that enemy unit are automatically passed.</li></ul>|Datasheet||
+000001545|5|||Ramshackle Cover|When an attack targets a unit that is not fully visible to the attacking model because of this unit, the target has the benefit of cover against that attack.|Datasheet||
 000001546|1|000008343||||Core||
 000001546|2|000008338||||Core|5+|
 000001546|3|000008346||||Core||
