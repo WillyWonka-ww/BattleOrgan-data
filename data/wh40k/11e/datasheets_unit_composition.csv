@@ -50,145 +50,95 @@ datasheet_id|line|description|
 000000054|1|1 Big Trakk model|
 000000056|1|1 Kill Tank model|
 000000059|1|1 Gargantuan Squiggoth|
-000000060|1|1 Apothecary Biologis|
-000000061|1|1 Assault Sergeant|
-000000061|2|4-9 Assault Marines|
-000000063|1|1 Apothecary on Bike|
-000000064|1|1 Assault Sergeant with Jump Pack|
-000000064|2|4-9 Assault Marines with Jump Packs|
-000000065|1|1 Land Raider|
-000000066|1|1 Land Raider Crusader|
-000000067|1|1 Land Raider Excelsior|
-000000068|1|1 Suppressor Sergeant|
-000000068|2|2 Suppressors|
-000000070|1|1 Tactical Sergeant|
-000000070|2|9 Tactical Marines|
-000000071|1|1 Bladeguard Veteran Sergeant|
-000000071|2|2-5 Bladeguard Veterans|
-000000072|1|1 Caestus Assault Ram|
-000000073|1|1 Captain|
-000000076|1|1 Lieutenant with Combi-weapon|
-000000079|1|1 Librarian in Terminator Armour|
-000000083|1|1 Captain with Jump Pack|
-000000084|1|1 Stormhawk Interceptor|
-000000085|1|1 Rhino Primaris|
-000000086|1|1-2 Firestrike Servo-turrets|
-000000087|1|1 Drop Pod|
-000000091|1|1 Ballistus Dreadnought|
-000000092|1|1 Sicaran Venator|
-000000093|1|1 Typhon|
-000000094|1|1 Chaplain on Bike|
-000000096|1|1 Carab Culln the Risen – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000097|1|1 Hammerfall Bunker|
-000000098|1|1 Tarantula Sentry Battery|
-000000099|1|1 Tarantula Air Defence Battery|
-000000103|1|1 Eradicator Sergeant|
-000000103|2|2-5 Eradicators|
-000000104|1|1 Relic Terminator Sergeant|
-000000104|2|4-9 Relic Terminators|
-000000107|1|1 Javelin Attack Speeder|
-000000110|1|1 Rapier Carrier|
-000000111|1|1 Mortis Dreadnought|
-000000112|1|1 Chaplain with Jump Pack|
-000000113|1|1 Storm Eagle Gunship|
-000000114|1|1 Storm Speeder Hammerstrike|
-000000115|1|1 Chaplain in Terminator Armour|
-000000116|1|1 Biker Sergeant|
-000000116|2|2-5 Space Marine Bikers|
-000000116|3|0-1 Attack Bike|
-000000117|1|1 Dreadnought|
-000000118|1|1 Assault Terminator Sergeant|
-000000118|2|4-9 Assault Terminators|
-000000119|1|1 Librarian in Phobos Armour|
-000000120|1|1 Venerable Dreadnought|
-000000121|1|1 Uriel Ventris – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000122|1|1 Dreadnought Drop Pod|
-000000123|1|1 Sicaran Punisher|
-000000124|1|1 Storm Speeder Hailstrike|
-000000125|1|1 Inceptor Sergeant|
-000000125|2|2-5 Inceptors|
-000000126|1|1 Infernus Sergeant|
-000000126|2|4-9 Infernus Marines|
-000000127|1|1 Iron Father Feirros – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000128|1|1 Infiltrator Sergeant|
-000000128|2|4-9 Infiltrators|
-000000129|1|1 Razorback|
-000000131|1|1 Leviathan Dreadnought|
-000000132|1|1 Land Speeder Storm|
-000000134|1|4 Astartes Servitors|
-000000135|1|1 Captain in Terminator Armour|
-000000136|1|1 Brutalis Dreadnought|
-000000137|1|1 Scout Biker Sergeant|
-000000137|2|2-5 Scout Bikers|
-000000138|1|1 Roboute Guilliman – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000139|1|1 Thunderhawk Gunship|
-000000140|1|1 Techmarine|
-000000146|1|1 Hunter|
-000000147|1|1 Vanguard Veteran Sergeant with Jump Pack|
-000000147|2|4-9 Vanguard Veterans with Jump Packs|
-000000148|1|1 Imperial Space Marine|
-000000151|1|1 Commander Dante – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000152|1|1 Captain Tycho – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000153|1|1 Tycho the Lost – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000154|1|1 Librarian Dreadnought|
-000000155|1|1 Chief Librarian Mephiston – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000156|1|1 The Sanguinor – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000157|1|1 Astorath – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000158|1|1 Sanguinary Priest|
-000000160|1|1 Brother Corbulo – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000164|1|1 Lemartes – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000165|1|3-6 Sanguinary Guard|
-000000166|1|1 Death Company Dreadnought|
-000000167|1|1 Furioso Dreadnought|
-000000168|1|1 Baal Predator|
-000000169|1|1 Gabriel Seth – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000218|1|1 Azrael – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000219|1|1 Belial – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000225|1|1 Asmodai – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000226|1|1 Ezekiel – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000230|1|1 Deathwing Sergeant|
-000000230|2|4-9 Deathwing Terminators|
-000000231|1|1 Knight Master|
-000000231|2|4 Deathwing Knights|
-000000238|1|1 Ravenwing Darkshroud|
-000000239|1|1 Nephilim Jetfighter|
-000000240|1|1 Ravenwing Dark Talon|
-000000241|1|1 Ravenwing Huntmaster|
-000000241|2|2-5 Ravenwing Black Knights|
-000000242|1|1 Land Speeder Vengeance|
-000000282|1|1 Logan Grimnar – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000283|1|1 Logan Grimnar on Stormrider – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000284|1|1 Wolf Lord on Thunderwolf|
-000000285|1|1 Ragnar Blackmane – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000286|1|1 Krom Dragongaze|
-000000287|1|1 Harald Deathwolf – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000288|1|1 Canis Wolfborn – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000292|1|1 Njal Stormcaller – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000297|1|1 Ulrik the Slayer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000302|1|1 Bjorn the Fell-Handed– <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000303|1|1 Blood Claw Pack Leader|
-000000303|2|9-19 Blood Claws|
-000000304|1|1 Lukas the Trickster – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000305|1|1 Grey Hunter Pack Leader|
-000000305|2|9 Grey Hunters|
-000000306|1|1 Iron Priest|
-000000311|1|5-10 Wulfen|
-000000314|1|1 Murderfang – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000315|1|1 Wolf Guard Pack Leader|
-000000315|2|4-9 Wolf Guard|
-000000317|1|1 Arjac Rockfist – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000000318|1|1 Wolf Guard Terminator Pack Leader|
-000000318|2|4-9 Wolf Guard Terminators|
-000000321|1|1 Stormwolf|
-000000322|1|1 Thunderwolf Cavalry Pack Leader|
-000000322|2|2-5 Thunderwolf Cavalry|
-000000323|1|5-10 Fenrisian Wolves|
-000000324|1|1 Skyclaw Pack Leader|
-000000324|2|4-14 Skyclaws|
-000000325|1|1 Stormfang Gunship|
-000000326|1|1 Long Fang Pack Leader|
-000000326|2|4-5 Long Fangs|
-000000358|1|1 Corvus Blackstar|
+000000060|1|1 Apothecary Biologis model|
+000000065|1|1 Land Raider model|
+000000066|1|1 Land Raider Crusader model|
+000000067|1|1 Land Raider Excelsior model|
+000000071|1|1 Bladeguard Veteran Sergeant model|
+000000071|2|2-5 Bladeguard Veteran models|
+000000073|1|1 Captain model|
+000000076|1|1 Lieutenant with Combi-weapon model|
+000000079|1|1 Librarian in Terminator Armour model|
+000000083|1|1 Captain with Jump Pack model|
+000000084|1|1 Stormhawk Interceptor model|
+000000085|1|1 Rhino Primaris model|
+000000086|1|1-2 Firestrike Servo-turrets models|
+000000087|1|1 Drop Pod model|
+000000091|1|1 Ballistus Dreadnought model|
+000000093|1|1 Typhon model|
+000000094|1|1 Chaplain on Bike model|
+000000097|1|1 Hammerfall Bunker model|
+000000098|1|1-3 Tarantula Sentry Battery models|
+000000099|1|1 Tarantula Air Defence Battery model|
+000000110|1|1 Rapier Carrier model|
+000000112|1|1 Chaplain with Jump Pack model|
+000000114|1|1 Storm Speeder Hammerstrike model|
+000000115|1|1 Chaplain in Terminator Armour model|
+000000117|1|1 Dreadnought model|
+000000118|1|1 Terminator Sergeant model|
+000000118|2|4-9 Terminator models|
+000000119|1|1 Librarian in Phobos Armour model|
+000000120|1|1 Venerable Dreadnought model|
+000000124|1|1 Storm Speeder Hailstrike model|
+000000125|1|1 Inceptor Sergeant model|
+000000125|2|2-5 Inceptor models|
+000000126|1|1 Infernus Sergeant model|
+000000126|2|4-9 Infernus Marine models|
+000000127|1|1 Iron Father Feirros model|
+000000128|1|1 Infiltrator Sergeant model|
+000000128|2|4-9 Infiltrator models|
+000000129|1|1 Razorback model|
+000000135|1|1 Captain in Terminator Armour model|
+000000136|1|1 Brutalis Dreadnought model|
+000000137|1|1 Scout Biker Sergeant model|
+000000137|2|2-5 Scout Biker models|
+000000138|1|1 Roboute Guilliman model|
+000000139|1|1 Thunderhawk Gunship model|
+000000140|1|1 Techmarine model|
+000000147|1|1 Vanguard Veteran Sergeant with Jump Pack model|
+000000147|2|4-9 Vanguard Veteran with Jump Pack models|
+000000151|1|1 Commander Dante model|
+000000155|1|1 Chief Librarian Mephiston model|
+000000156|1|1 The Sanguinor model|
+000000157|1|1 Astorath model|
+000000158|1|1 Sanguinary Priest model|
+000000164|1|1 Lemartes model|
+000000165|1|3-6 Sanguinary Guard models|
+000000166|1|1 Death Company Dreadnought model|
+000000168|1|1 Baal Predator model|
+000000218|1|1 Azrael model|
+000000219|1|1 Belial model|
+000000225|1|1 Asmodai model|
+000000226|1|1 Ezekiel model|
+000000230|1|1 Deathwing Sergeant model|
+000000230|2|4-9 Deathwing Terminators models|
+000000231|1|1 Knight Master model|
+000000231|2|4 Deathwing Knights models|
+000000238|1|1 Ravenwing Darkshroud model|
+000000239|1|1 Nephilim Jetfighter model|
+000000240|1|1 Ravenwing Dark Talon model|
+000000241|1|1 Ravenwing Huntmaster model|
+000000241|2|2-5 Ravenwing Black Knight models|
+000000242|1|1 Land Speeder Vengeance model|
+000000282|1|1 Logan Grimnar model|
+000000285|1|1 Ragnar Blackmane model|
+000000292|1|1 Njal Stormcaller model|
+000000297|1|1 Ulrik the Slayer model|
+000000302|1|1 Bjorn the Fell-handed model|
+000000303|1|1 Blood Claw Pack Leader model|
+000000303|2|9-19 Blood Claw models|
+000000305|1|1 Grey Hunter Pack Leader model|
+000000305|2|9 Grey Hunter models|
+000000306|1|1 Iron Priest model|
+000000311|1|5-10 Wulfen models|
+000000314|1|1 Murderfang model|
+000000317|1|1 Arjac Rockfist model|
+000000318|1|1 Wolf Guard Terminator Pack Leader model|
+000000318|2|4-9 Wolf Guard Terminator models|
+000000322|1|1 Thunderwolf Cavalry Pack Leader model|
+000000322|2|2-5 Thunderwolf Cavalry models|
+000000323|1|5-10 Fenrisian Wolf models|
+000000358|1|1 Corvus Blackstar model|
 000000373|1|1 Kaldor Draigo – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000000374|1|1 Grand Master Voldus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000000375|1|1 Grand Master|
@@ -772,46 +722,30 @@ datasheet_id|line|description|
 000001149|1|1 Daemon Prince of Chaos|
 000001150|1|5-10 Furies|
 000001151|1|1 Soul Grinder|
-000001153|1|1 Cerberus|
-000001154|1|1 Vanguard Veteran Sergeant|
-000001154|2|4-9 Vanguard Veterans|
-000001156|1|1 Invictor Tactical Warsuit|
-000001157|1|1 Intercessor Sergeant|
-000001157|2|4-9 Intercessors|
-000001158|1|1 Invader ATV|
-000001159|1|1 Incursor Sergeant|
-000001159|2|4-9 Incursors|
-000001160|1|1 Scout Sergeant|
-000001160|2|4-9 Scouts|
-000001161|1|1 Sicaran Arcus|
-000001162|1|1 Sergeant Telion – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001163|1|1 Sicaran Omega|
-000001164|1|1 Techmarine Gunner|
-000001164|2|1 Thunderfire Cannon|
-000001165|1|1 Bladeguard Ancient|
-000001166|1|1 Veteran Biker Sergeant|
-000001166|2|1-4 Veteran Bikers|
-000001168|1|1 Land Speeder Tempest|
-000001169|1|1 Land Speeder Tornado|
-000001172|1|1 Captain in Gravis Armour|
-000001174|1|1 Chaplain|
-000001175|1|1 Kratos|
-000001177|1|1 Heavy Intercessor Sergeant|
-000001177|2|4-9 Heavy Intercessors|
-000001178|1|1 Vindicator Laser Destroyer|
-000001179|1|1 Sokar-pattern Stormbird|
-000001182|1|1 Ancient on Bike|
-000001183|1|1 Terminator Sergeant|
-000001183|2|4-9 Terminators|
-000001184|1|1 Terminus Ultra|
-000001185|1|1 Sicaran Battle Tank|
-000001188|1|1 Vindicator|
-000001189|1|1 Mastodon|
-000001190|1|1 Stormtalon Gunship|
-000001191|1|1 Stormraven Gunship|
-000001192|1|1 Chaplain Venerable Dreadnought|
-000001193|1|1 Devastator Centurion Sergeant|
-000001193|2|2-5 Devastator Centurions|
+000001153|1|1 Cerberus model|
+000001154|1|1 Vanguard Veteran Sergeant model|
+000001154|2|4-9 Vanguard Veteran models|
+000001156|1|1 Invictor Tactical Warsuit model|
+000001157|1|1 Intercessor Sergeant model|
+000001157|2|4-9 Intercessor models|
+000001159|1|1 Incursor Sergeant model|
+000001159|2|4-9 Incursor models|
+000001160|1|1 Scout Sergeant model|
+000001160|2|4-9 Scout models|
+000001165|1|1 Bladeguard Ancient model|
+000001172|1|1 Captain in Gravis Armour model|
+000001174|1|1 Chaplain model|
+000001175|1|1 Kratos model|
+000001177|1|1 Heavy Intercessor Sergeant model|
+000001177|2|4-9 Heavy Intercessor models|
+000001183|1|1 Terminator Sergeant model|
+000001183|2|4-9 Terminator models|
+000001188|1|1 Vindicator model|
+000001189|1|1 Mastodon model|
+000001190|1|1 Stormtalon Gunship model|
+000001191|1|1 Stormraven Gunship model|
+000001193|1|1 Devastator Centurion Sergeant model|
+000001193|2|2-5 Devastator Centurion models|
 000001197|1|1 Grey Knights Thunderhawk Gunship|
 000001199|1|1 Repressor|
 000001237|1|1 Valkyrie Sky Talon|
@@ -834,11 +768,7 @@ datasheet_id|line|description|
 000001338|1|1 Spined Chaos Beast|
 000001339|1|1 Giant Chaos Spawn|
 000001340|1|1 Scabeiathrax the Bloated – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001344|1|1 Librarian with Jump Pack|
-000001345|1|1 Lieutenant in Reiver Armour|
-000001346|1|1 Lieutenant|
-000001347|1|1 Land Raider Prometheus|
-000001348|1|1 Librarian on Bike|
+000001346|1|1 Lieutenant model|
 000001355|1|1 Exalted Champion|
 000001360|1|1 Grand Master in Nemesis Dreadknight|
 000001361|1|1 Brotherhood Librarian|
@@ -868,7 +798,6 @@ datasheet_id|line|description|
 000001398|1|1 Ogryn Bodyguard|
 000001400|1|1 Bonesinger|
 000001406|1|1 Sly Marbo – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001423|1|1 Ravenwing Talonmaster|
 000001446|1|1 Trajann Valoris – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001447|1|1 Shield-Captain|
 000001448|1|1 Shield-Captain in Allarus Terminator Armour|
@@ -903,14 +832,10 @@ datasheet_id|line|description|
 000001484|1|1 Canis Rex – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001485|1|1 Knight Castellan|
 000001486|1|1 Knight Valiant|
-000001523|1|1 Scout Sniper Sergeant|
-000001523|2|4-9 Scout Snipers|
-000001524|1|1 Sergeant Chronus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001525|1|1 Hoplite Alpha|
 000001525|2|4-9 Secutarii Hoplites|
 000001526|1|1 Peltast Alpha|
 000001526|2|4-9 Secutarii Peltasts|
-000001527|1|1 Techmarine on Bike|
 000001533|1|1 Terrax-pattern Termite|
 000001536|1|1 Big Mek with Shokk Attack Gun model|
 000001537|1|1 Deffkilla Wartrike model|
@@ -954,13 +879,10 @@ datasheet_id|line|description|
 000001601|1|4 Negavolt Cultists|
 000001604|1|1 Fellgor Champion|
 000001604|2|9 Fellgor Beastmen|
-000001606|1|1 Assault Intercessor Sergeant|
-000001606|2|4-9 Assault Intercessors|
-000001607|1|1 Land Raider Achilles|
-000001608|1|1 Land Raider Proteus|
-000001609|1|1 Fire Raptor Gunship|
-000001610|1|1 Storm Speeder Thunderstrike|
-000001611|1|1 Chief Librarian Tigurius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000001606|1|1 Assault Intercessor Sergeant model|
+000001606|2|4-9 Assault Intercessor models|
+000001610|1|1 Storm Speeder Thunderstrike model|
+000001611|1|1 Chief Librarian Tigurius model|
 000001647|1|1 Contorted Epitome|
 000001648|1|1 Shalaxi Helbane – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001649|1|1 Syll’Esske – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -973,23 +895,22 @@ datasheet_id|line|description|
 000001662|1|1 Chaos Acastus Knight Asterius|
 000001663|1|1 War Dog Moirax|
 000001664|1|1 Acastus Knight Asterius|
-000001666|1|1 Falchion|
-000001667|1|1 Gladiator Reaper|
-000001668|1|1 Eliminator Sergeant|
-000001668|2|2 Eliminators|
+000001666|1|1 Falchion model|
+000001667|1|1 Gladiator Reaper model|
+000001668|1|1 Eliminator Sergeant model|
+000001668|2|2 Eliminator models|
 000001680|1|1 Ares Gunship|
 000001822|1|1 X-101 – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001825|1|1 Gladiator Valiant|
-000001991|1|1 Terrax-pattern Termite|
+000001825|1|1 Gladiator Valiant model|
+000001991|1|1 Terrax-pattern Termite model|
 000001994|1|1 Carnodon|
-000001997|1|5-10 Death Company Marines|
+000001997|1|5-10 Death Company Marines models|
 000002063|1|1 Triumph of Saint Katherine – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002064|1|1 Junith Eruita – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002066|1|1 Zephyrim Superior|
 000002066|2|4-9 Zephyrim|
 000002067|1|1-2 Mortifiers|
 000002068|1|1 Battle Sanctum|
-000002076|1|1-3 Attack Bikes|
 000002077|1|1 Warbringer Nemesis Titan|
 000002081|1|1 Serberys Sulphurhound Alpha|
 000002081|2|2-5 Serberys Sulphurhounds|
@@ -1005,17 +926,12 @@ datasheet_id|line|description|
 000002088|1|1 Aleya – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002090|1|1 Inquisitor Draxus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002092|1|1 Illuminor Szeras – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002098|1|1 Hellblaster Sergeant|
-000002098|2|4-9 Hellblasters|
-000002099|1|1 Aggressor Sergeant|
-000002099|2|2-5 Aggressors|
-000002100|1|1 Adrax Agatone – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002102|1|1 Land Speeder Typhoon|
-000002103|1|1 Apothecary|
-000002103|2|1 Company Ancient|
-000002103|3|1 Company Champion|
-000002103|4|2 Company Veterans|
-000002105|1|1 Darnath Lysander – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000002098|1|1 Hellblaster Sergeant model|
+000002098|2|4-9 Hellblaster models|
+000002099|1|1 Aggressor Sergeant model|
+000002099|2|2-5 Aggressor models|
+000002100|1|1 Adrax Agatone model|
+000002105|1|1 Darnath Lysander model|
 000002108|1|1 Plasmancer|
 000002109|1|1 Skorpekh Lord|
 000002110|1|3-6 Skorpekh Destroyers|
@@ -1024,27 +940,14 @@ datasheet_id|line|description|
 000002114|1|3-6 Canoptek Scarab Swarms|
 000002115|1|1 Canoptek Doomstalker|
 000002116|1|1-3 Lokhust Heavy Destroyers|
-000002173|1|1 Land Raider Redeemer|
-000002202|1|1 Devastator Sergeant|
-000002202|2|4-9 Devastator Marines|
-000002234|1|1 Primaris Company Champion|
-000002252|1|1 Spartan|
-000002255|1|1 Sternguard Veteran Sergeant|
-000002255|2|4-9 Sternguard Veterans|
-000002258|1|1 Stalker|
-000002266|1|1 Librarian|
-000002267|1|1 Deathstorm Drop Pod|
-000002268|1|1 Deimos Predator|
-000002269|1|1 Deredeo Dreadnought|
-000002270|1|1 Desolation Sergeant|
-000002270|2|4 Desolation Marines|
-000002285|1|5-10 Death Company Marines with Bolt Rifles|
-000002291|1|1 Sammael – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002296|1|1 Lazarus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002302|1|1 Deathwing Ancient|
-000002302|2|1 Deathwing Apothecary|
-000002302|3|1 Deathwing Champion|
-000002302|4|2-7 Deathwing Command Terminators|
+000002173|1|1 Land Raider Redeemer model|
+000002255|1|1 Sternguard Veteran Sergeant model|
+000002255|2|4-9 Sternguard Veteran models|
+000002266|1|1 Librarian model|
+000002270|1|1 Desolation Sergeant model|
+000002270|2|4 Desolation Marine models|
+000002291|1|1 Sammael model|
+000002296|1|1 Lazarus model|
 000002350|1|1 Royal Warden|
 000002351|1|1 Lokhust Lord|
 000002352|1|1 Technomancer|
@@ -1070,13 +973,12 @@ datasheet_id|line|description|
 000002460|1|1 Lord of Virulence|
 000002461|1|1 Chaos Predator Destructor|
 000002462|1|1 Miasmic Malignifier|
-000002468|1|1 Deathwing Strikemaster|
 000002471|1|1 Lhamaean|
 000002471|2|1 Medusae|
 000002471|3|1 Sslyth|
 000002471|4|1 Ur-ghul|
 000002472|1|1 Palatine|
-000002473|1|1 Tor Garadon – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000002473|1|1 Tor Garadon model|
 000002477|1|1 Technoarcheologist|
 000002478|1|1 Skitarii Marshal|
 000002479|1|1 Morvenn Vahl – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -1122,7 +1024,7 @@ datasheet_id|line|description|
 000002525|1|1 Reductus Saboteur|
 000002528|1|1 Winged Hive Tyrant|
 000002529|1|1 Parasite of Mortrex|
-000002530|1|1 Lieutenant in Phobos Armour|
+000002530|1|1 Lieutenant in Phobos Armour model|
 000002531|1|1 Voidreaver Felarch|
 000002531|2|4-9 Corsair Voidreavers|
 000002532|1|This unit can contain a maximum of 10 models.|
@@ -1150,7 +1052,7 @@ datasheet_id|line|description|
 000002565|1|1 War Dog Brigand|
 000002566|1|1 War Dog Huntsman|
 000002567|1|1 Knight Abominant|
-000002568|1|1 Impulsor|
+000002568|1|1 Impulsor model|
 000002569|1|1 Cult Demagogue|
 000002569|2|1 Mindwitch|
 000002569|3|1 Iconarch|
@@ -1240,10 +1142,9 @@ datasheet_id|line|description|
 000002640|1|1 Chaos Rhino|
 000002641|1|1 Heldrake|
 000002642|1|1 Khorne Lord of Skulls|
-000002677|1|1 Ancient in Terminator Armour|
-000002678|1|1 Chaplain Cassius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000002677|1|1 Ancient in Terminator Armour model|
 000002679|1|1 Vashtorr the Arkifane – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002682|1|1 Lion El’Jonson – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000002682|1|1 Lion El'Jonson model|
 000002683|1|1 Proctor-Vigilant|
 000002683|2|9 Vigilants|
 000002683|3|1 Cyber-mastiff|
@@ -1265,40 +1166,29 @@ datasheet_id|line|description|
 000002692|2|2-5 Tyranid Warriors|
 000002693|1|3-6 Von Ryan’s Leapers|
 000002694|1|1 Winged Tyranid Prime|
-000002700|1|1 Astraeus|
-000002701|1|1 Captain in Phobos Armour|
-000002702|1|1 Captain on Bike|
-000002703|1|1 Assault Centurion Sergeant|
-000002703|2|2-5 Assault Centurions|
-000002704|1|1 Fellblade|
-000002705|1|1 Gladiator Lancer|
-000002706|1|1 Ironclad Dreadnought|
-000002707|1|1 Judiciar|
-000002708|1|1 Kayvaan Shrike – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002709|1|1 Kor’sarro Khan – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002710|1|1 Land Raider Helios|
-000002711|1|1 Land Speeder|
-000002712|1|1 Outrider Sergeant|
-000002712|2|2-5 Outriders|
-000002712|3|0-1 Invader ATV|
-000002713|1|1 Pedro Kantor – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002714|1|1 Predator Annihilator|
-000002715|1|1 Predator Destructor|
-000002717|1|1 Redemptor Dreadnought|
-000002718|1|1 Reiver Sergeant|
-000002718|2|4-9 Reivers|
-000002719|1|1 Relic Contemptor Dreadnought|
-000002720|1|1 Relic Razorback|
-000002721|1|1 Repulsor|
-000002722|1|1 Repulsor Executioner|
-000002723|1|1 Rhino|
-000002724|1|1 Thunderhawk Transporter|
-000002725|1|1 Veteran Sergeant|
-000002725|2|4 Tyrannic War Veterans|
-000002726|1|1 Vulkan He’stan – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002727|1|1 Whirlwind|
-000002728|1|1 Whirlwind Scorpius|
-000002729|1|1 Xiphon Interceptor|
+000002700|1|1 Astraeus model|
+000002701|1|1 Captain in Phobos Armour model|
+000002702|1|1 Captain on Bike model|
+000002703|1|1 Assault Centurion Sergeant model|
+000002703|2|2-5 Assault Centurion models|
+000002705|1|1 Gladiator Lancer model|
+000002707|1|1 Judiciar model|
+000002708|1|1 Kayvaan Shrike model|
+000002709|1|1 Kor’sarro Khan model|
+000002711|1|1 Land Speeder model|
+000002712|1|1 Outrider Sergeant model|
+000002712|2|2-5 Outrider models|
+000002714|1|1 Predator Annihilator model|
+000002715|1|1 Predator Destructor model|
+000002717|1|1 Redemptor Dreadnought model|
+000002718|1|1 Reiver Sergeant model|
+000002718|2|4-9 Reiver models|
+000002720|1|1 Relic Razorback model|
+000002721|1|1 Repulsor model|
+000002722|1|1 Repulsor Executioner model|
+000002723|1|1 Rhino model|
+000002726|1|1 Vulkan He’stan model|
+000002727|1|1 Whirlwind model|
 000002730|1|1 Heretic Astartes Daemon Prince with Wings|
 000002731|1|1 Renegade Enforcer|
 000002732|1|3 Renegade Heavy Weapons Teams|
@@ -1306,8 +1196,7 @@ datasheet_id|line|description|
 000002733|2|3 Chaos Mauler Hounds|
 000002734|1|3 Renegade Ogryn Brutes|
 000002735|1|3 Renegade Plague Ogryns|
-000002737|1|5-10 Death Company Marines with Jump Packs|
-000002738|1|1 Sanguinary Priest|
+000002737|1|5-10 Death Company Marines with Jump Packs models|
 000002739|1|1 Earthshaker Platform|
 000002740|1|1 Elysian Drop Sentinel|
 000002741|1|1 Leman Russ Eradicator|
@@ -1317,9 +1206,9 @@ datasheet_id|line|description|
 000002745|1|1 Leman Russ Vanquisher|
 000002746|1|1 Tempestor|
 000002746|2|4-9 Tempestus Scions|
-000002748|1|1 Ravenwing Champion|
-000002748|2|1 Ravenwing Apothecary|
-000002748|3|1 Ravenwing Ancient|
+000002748|1|1 Ravenwing Ancient model|
+000002748|2|1 Ravenwing Apothecary model|
+000002748|3|1 Ravenwing Champion model|
 000002749|1|1 Daemon Prince of Nurgle with Wings|
 000002750|1|1 Icon Bearer|
 000002751|1|1 Norn Emissary|
@@ -1347,54 +1236,46 @@ datasheet_id|line|description|
 000002770|1|1 Sir Hekhtur – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002771|1|1 Ephrael Stern – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002771|2|1 Kyganil of the Bloody Tears – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002772|1|1 Ancient|
-000002772|2|1 Company Champion|
-000002772|3|2 Company Veterans|
-000002773|1|1 Apothecary|
-000002775|1|1 Ancient|
-000002776|1|1 Assault Intercessor Sergeant with Jump Pack|
-000002776|2|4-9 Assault Intercessors with Jump Packs|
-000002779|1|10 MODELS MAXIMUM|
-000002779|2|3‑10 Kill Team Infiltrators|
-000002779|3|0‑3 Kill Team Infiltrators with bolt sniper rifles|
-000002779|4|0‑4 Kill Team Infiltrators with Deathwatch occulus bolt carbines|
-000002779|5|0‑4 Kill Team Infiltrators with combat knives|
-000002780|1|10 MODELS MAXIMUM|
-000002780|2|1 Kill Team Sergeant|
-000002780|3|2-9 Kill Team Intercessors|
-000002780|4|0-4 Kill Team Intercessors with plasma incinerators|
-000002780|5|0-4 Kill Team Intercessors with heavy bolt pistols|
-000002780|6|0‑4 Kill Team Intercessors with pyreblasters|
-000002780|7|0‑2 Kill Team Intercessors with superfrag rocket launchers|
-000002781|1|10 MODELS MAXIMUM|
-000002781|2|3‑10 Kill Team Heavy Intercessors|
-000002781|3|0‑3 Kill Team Heavy Intercessors with power fists|
-000002781|4|0‑3 Kill Team Heavy Intercessors with melta rifles|
-000002783|1|1 Watch Sergeant|
-000002783|2|4-9 Deathwatch Veterans|
-000002786|1|1 Impulsor|
-000002787|1|1 Gladiator Lancer|
-000002788|1|1 Gladiator Valiant|
-000002789|1|1 Gladiator Reaper|
-000002790|1|1 Repulsor Executioner|
-000002791|1|1 Repulsor|
-000002792|1|1 Chaplain Grimaldus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002792|2|3 Cenobyte Servitors*|
-000002793|1|1 Castellan|
-000002794|1|1 High Marshal Helbrecht – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002795|1|1 Emperor’s Champion|
-000002796|1|1 Marshal|
-000002798|1|4-10 Sword Brothers|
-000002799|1|1 Sword Brother|
-000002799|2|5-11 Initiates|
-000002799|3|4-8 Neophytes|
-000002801|1|1 Venerable Dreadnought|
-000002802|1|1 Wolf Guard Pack Leader with Jump Pack|
-000002803|1|1 Wolf Guard Pack Leader in Terminator Armour|
-000002804|1|1 Wolf Guard Pack Leader|
-000002805|1|1 Cyberwolf|
-000002806|1|1 Hound of Morkai Pack Leader|
-000002806|2|4-9 Hound of Morkai|
+000002772|1|1 Ancient model|
+000002772|2|1 Company Champion model|
+000002772|3|1 Company Veteran with Bolt Rifle model|
+000002772|4|1 Company Veteran with Heavy Bolter model|
+000002773|1|1 Apothecary model|
+000002775|1|1 Ancient model|
+000002776|1|1 Assault Intercessor Sergeant with Jump Pack model|
+000002776|2|4-9 Assault Intercessor with Jump Pack models|
+000002779|1|2 Kill Team Infiltrator with Bolt Sniper Rifle, Bolt Pistol and Ceramite Fists models|
+000002779|2|2 Kill Team Infiltrator with Deathwatch Occulus Bolt Carbine, Bolt Pistol and Paired Combat Blades models|
+000002779|3|2 Kill Team Infiltrator with Special-issue Bolt Pistol and Combat Knife models|
+000002779|4|4 Kill Team Infiltrator with Deathwatch Marksman Bolt Carbine, Bolt Pistol and Ceramite Fists models|
+000002780|1|1 Kill Team Intercessor with Castellan Launcher, Superfrag Rocket Launcher and Knives and Fists model|
+000002780|2|1 Kill Team Sergeant model|
+000002780|3|2 Deathwatch Intercessor with Plasma Incinerator, Bolt Pistol and Knives and Fists models|
+000002780|4|2 Kill Team Intercessor with Deathwatch Bolt Rifle, Bolt Pistol and Knives and Fists models|
+000002780|5|2 Kill Team Intercessor with Heavy Bolt Pistol and Chainsword models|
+000002780|6|2 Kill Team Intercessor with Pyreblaster, Bolt Pistol and Knives and Fists models|
+000002781|1|3 Kill Team Heavy Intercessor with Flamestorm Gauntlets and Twin Power Fists models|
+000002781|2|3 Kill Team Heavy Intercessor with Melta Rifle, Bolt Pistol and Ceramite Fists models|
+000002781|3|4 Kill Team Heavy Intercessor with Deathwatch Heavy Bolt Rifle and Ceramite Fists models|
+000002783|1|1 Watch Sergeant model|
+000002783|2|4-9 Deathwatch Veteran models|
+000002786|1|1 Impulsor model|
+000002787|1|1 Gladiator Lancer model|
+000002788|1|1 Gladiator Valiant model|
+000002789|1|1 Gladiator Reaper model|
+000002790|1|1 Repulsor Executioner model|
+000002791|1|1 Repulsor model|
+000002792|1|1 Chaplain Grimaldus model|
+000002792|2|3 Cenobyte Servitor models|
+000002793|1|1 Castellan model|
+000002794|1|1 High Marshal Helbrecht model|
+000002795|1|1 Emperor's Champion model|
+000002796|1|1 Marshal model|
+000002798|1|4-10 Sword Brother models|
+000002799|1|1 Sword Brother model|
+000002799|2|4-8 Neophyte models|
+000002799|3|5-11 Initiate models|
+000002801|1|1 Venerable Dreadnought model|
 000003582|1|1 Khorne Berzerker Champion|
 000003582|2|9-19 Khorne Berzerkers|
 000003583|1|1 Aspiring Sorcerer|
@@ -1420,98 +1301,38 @@ datasheet_id|line|description|
 000003600|1|1 Sorcerer on Palanquin of Nurgle|
 000003601|1|1 Hell Blade|
 000003602|1|1 Hell Talon|
-000003603|1|1 Terrax-pattern Termite|
-000003604|1|1 Terrax-pattern Termite|
-000003605|1|1 Terrax-pattern Termite|
-000003606|1|1 Terrax-pattern Termite|
-000003607|1|1 Land Raider Achilles|
-000003608|1|1 Land Raider Achilles|
-000003609|1|1 Land Raider Achilles|
-000003610|1|1 Land Raider Achilles|
-000003611|1|1 Land Raider Proteus|
-000003612|1|1 Land Raider Proteus|
-000003613|1|1 Land Raider Proteus|
-000003614|1|1 Land Raider Proteus|
-000003615|1|1 Fire Raptor Gunship|
-000003616|1|1 Fire Raptor Gunship|
-000003617|1|1 Fire Raptor Gunship|
-000003618|1|1 Fire Raptor Gunship|
-000003619|1|1 Spartan|
-000003620|1|1 Spartan|
-000003621|1|1 Spartan|
-000003622|1|1 Spartan|
-000003623|1|1 Deredeo Dreadnought|
-000003624|1|1 Deredeo Dreadnought|
-000003625|1|1 Deredeo Dreadnought|
-000003626|1|1 Deredeo Dreadnought|
-000003627|1|1 Cerberus|
-000003628|1|1 Cerberus|
-000003629|1|1 Cerberus|
-000003630|1|1 Cerberus|
-000003631|1|1 Kratos|
-000003632|1|1 Kratos|
-000003633|1|1 Kratos|
-000003634|1|1 Kratos|
-000003635|1|1 Sokar-pattern Stormbird|
-000003636|1|1 Sokar-pattern Stormbird|
-000003637|1|1 Sokar-pattern Stormbird|
-000003638|1|1 Sokar-pattern Stormbird|
-000003639|1|1 Sicaran Battle Tank|
-000003640|1|1 Sicaran Battle Tank|
-000003641|1|1 Sicaran Battle Tank|
-000003642|1|1 Sicaran Battle Tank|
-000003643|1|1 Mastodon|
-000003644|1|1 Mastodon|
-000003645|1|1 Mastodon|
-000003646|1|1 Mastodon|
-000003647|1|1 Leviathan Dreadnought|
-000003648|1|1 Leviathan Dreadnought|
-000003649|1|1 Leviathan Dreadnought|
-000003650|1|1 Leviathan Dreadnought|
-000003651|1|1 Fellblade|
-000003652|1|1 Fellblade|
-000003653|1|1 Fellblade|
-000003654|1|1 Fellblade|
-000003655|1|1 Relic Contemptor Dreadnought|
-000003656|1|1 Relic Contemptor Dreadnought|
-000003657|1|1 Relic Contemptor Dreadnought|
-000003658|1|1 Relic Contemptor Dreadnought|
-000003659|1|1 Whirlwind Scorpius|
-000003660|1|1 Whirlwind Scorpius|
-000003661|1|1 Whirlwind Scorpius|
-000003662|1|1 Whirlwind Scorpius|
-000003663|1|1 Xiphon Interceptor|
-000003664|1|1 Xiphon Interceptor|
-000003665|1|1 Xiphon Interceptor|
-000003666|1|1 Xiphon Interceptor|
-000003667|1|1 Rapier Carrier|
-000003668|1|1 Rapier Carrier|
-000003669|1|1 Rapier Carrier|
-000003670|1|1 Rapier Carrier|
-000003671|1|1 Storm Eagle Gunship|
-000003672|1|1 Storm Eagle Gunship|
-000003673|1|1 Storm Eagle Gunship|
-000003674|1|1 Storm Eagle Gunship|
-000003675|1|1 Sicaran Venator|
-000003676|1|1 Sicaran Venator|
-000003677|1|1 Sicaran Venator|
-000003678|1|1 Sicaran Venator|
-000003679|1|1 Typhon|
-000003680|1|1 Typhon|
-000003681|1|1 Typhon|
-000003682|1|1 Typhon|
-000003683|1|1 Sicaran Punisher|
-000003684|1|1 Sicaran Punisher|
-000003685|1|1 Sicaran Punisher|
-000003686|1|1 Sicaran Punisher|
-000003687|1|1 Falchion|
-000003688|1|1 Falchion|
-000003689|1|1 Falchion|
-000003690|1|1 Falchion|
+000003603|1|1 Terrax-pattern Termite model|
+000003604|1|1 Terrax-pattern Termite model|
+000003605|1|1 Terrax-pattern Termite model|
+000003606|1|1 Terrax-pattern Termite model|
+000003627|1|1 Cerberus model|
+000003628|1|1 Cerberus model|
+000003629|1|1 Cerberus model|
+000003630|1|1 Cerberus model|
+000003631|1|1 Kratos model|
+000003632|1|1 Kratos model|
+000003633|1|1 Kratos model|
+000003634|1|1 Kratos model|
+000003643|1|1 Mastodon model|
+000003644|1|1 Mastodon model|
+000003645|1|1 Mastodon model|
+000003646|1|1 Mastodon model|
+000003667|1|1 Rapier Carrier model|
+000003668|1|1 Rapier Carrier model|
+000003669|1|1 Rapier Carrier model|
+000003670|1|1 Rapier Carrier model|
+000003679|1|1 Typhon model|
+000003680|1|1 Typhon model|
+000003681|1|1 Typhon model|
+000003682|1|1 Typhon model|
+000003687|1|1 Falchion model|
+000003688|1|1 Falchion model|
+000003689|1|1 Falchion model|
+000003690|1|1 Falchion model|
 000003693|1|1 Overlord with Translocation Shroud |
 000003694|1|1-3 Sydonian Dragoons|
 000003695|1|1 Sydonian Skatros|
-000003698|1|3-6 Inner Circle Companions|
+000003698|1|3-6 Inner Circle Companions models|
 000003699|1|1 Crisis Sunforge Shas’vre|
 000003699|2|2 Crisis Sunforge Shas’ui|
 000003700|1|1 Crisis Fireknife Shas’vre|
@@ -1540,8 +1361,8 @@ datasheet_id|line|description|
 000003813|2|4 Grey Knights Terminators|
 000003814|1|1 Watch Captain Artemis|
 000003815|1|1 Watch Master|
-000003816|1|1 Watch Sergeant|
-000003816|2|4-9 Deathwatch Veterans|
+000003816|1|1 Watch Sergeant model|
+000003816|2|4-9 Deathwatch Veteran models|
 000003817|1|1 Corvus Blackstar|
 000003818|1|1 Sister Superior|
 000003818|2|9 Battle Sisters|
@@ -1579,14 +1400,11 @@ datasheet_id|line|description|
 000003828|1|1-2 Daemonhosts|
 000003829|1|1 Jokaero Weaponsmith|
 000003830|1|1 Imperial Rhino|
-000003831|1|1 Blood Angels Captain|
-000003832|1|1 Death Company Captain|
-000003833|1|1 Death Company Captain with Jump Pack|
+000003831|1|1 Blood Angels Captain model|
+000003832|1|1 Death Company Captain model|
+000003833|1|1 Death Company Captain with Jump Pack model|
 000003834|1|1 Tempestor Aquilon|
 000003834|2|9 Tempestus Aquilons|
-000003835|1|1 Death Company Dreadnought|
-000003836|1|5-10 Death Company Marines|
-000003837|1|5-10  Death Company Marines with Jump Packs|
 000003839|1|1 Tech-Priest Dominus|
 000003840|1|1 Tech-Priest Manipulus|
 000003841|1|1 Skitarii Marshal|
@@ -1624,14 +1442,13 @@ datasheet_id|line|description|
 000003860|1|3 Renegade Plague Ogryns|
 000003861|1|1 Nob model|
 000003861|2|5 Breaka Boy models|
-000003871|1|1 Watch Master|
-000003872|1|1 Watch Captain Artemis|
-000003873|1|1 Deathwatch Terminator Sergeant|
-000003873|2|4-9 Deathwatch Terminators|
-000003874|1|10 MODELS MAXIMUM|
-000003874|2|1 Kill Team Sergeant with Jump Pack|
-000003874|3|2‑9 Kill Team Intercessors with Jump Packs|
-000003874|4|0‑5 Kill Team Heavy Intercessors with Jump Packs|
+000003871|1|1 Watch Master model|
+000003872|1|1 Watch Captain Artemis model|
+000003873|1|1 Deathwatch Terminator Sergeant model|
+000003873|2|4-9 Deathwatch Terminator models|
+000003874|1|1 Kill Team Sergeant with Jump Pack model|
+000003874|2|4 Kill Team Heavy Intercessor with Jump Pack models|
+000003874|3|5 Kill Team Intercessor with Jump Pack models|
 000003875|1|1 Chaplain Cassius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000003875|2|8 Kill Team Veterans:<br><ul style="list-style-type:circle;"><li>Vael Donatus</li><li>Zameon Gydrael</li><li>Rodricus Grytt</li><li>Antor Delassio</li><li>Edryc Setorax</li><li>Jensus Natorian</li><li>Drenn Redblade</li><li>Ennox Sorrlock</li></ul>|
 000003875|3|1 Kill Team Terminator (Garran Branatar)|
@@ -1940,20 +1757,15 @@ datasheet_id|line|description|
 000004126|1|3-6 Screamers|
 000004127|1|10 Pink Horrors|
 000004128|1|10 Blue Horrors|
-000004129|1|1 Wolf Priest|
-000004130|1|1 Wolf Guard Battle Leader|
-000004131|1|3-6 Wolf Guard Headtakers|
-000004131|2|0-6 Hunting Wolves|
-000004132|1|5-10 Wulfen|
-000004133|1|1 Wulfen Dreadnought|
+000004129|1|1 Wolf Priest model|
+000004130|1|1 Wolf Guard Battle Leader model|
+000004131|1|3-6 Hunting Wolf models|
+000004131|2|3-6 Wolf Guard Headtaker models|
+000004132|1|5-10 Wulfen with Storm Shield models|
+000004133|1|1 Wulfen Dreadnought model|
 000004134|1|1 Knight Ruinator|
-000004135|1|1 Execrator|
-000004136|1|1 Crusade Ancient|
-000004137|1|1 Sternguard Veteran Squad Leader|
-000004137|2|4-9 Sternguard Veterans|
-000004138|1|1 Terminator Squad Leader|
-000004138|2|4-9 Terminators|
-000004139|1|1 Land Raider Crusader|
+000004135|1|1 Execrator model|
+000004136|1|1 Crusade Ancient model|
 000004140|1|1 Buri Aegnirssen – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004141|1|1 Memnyr Strategist|
 000004142|1|1 Arkanyst Evaluator|
@@ -1964,7 +1776,7 @@ datasheet_id|line|description|
 000004145|1|2 Cthonian Earthshakers|
 000004146|1|1-2 Kapricus Defenders|
 000004147|1|1 Kapricus Carrier|
-000004148|1|1 Aethon Shaan – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004148|1|1 Aethon Shaan model|
 000004149|1|1 Knight Defender|
 000004150|1|1 Greater Daemon|
 000004151|1|10 Lesser Daemons|
@@ -1984,8 +1796,8 @@ datasheet_id|line|description|
 000004164|1|1 Lead Player|
 000004164|2|4-11 Players|
 000004165|1|1 Voidweaver|
-000004166|1|1 Caanok Var – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004167|1|1 Suboden Khan – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004166|1|1 Caanok Var model|
+000004167|1|1 Suboden Khan model|
 000004168|1|1 Voidreaver Felarch|
 000004168|2|4-9 Corsair Voidreavers|
 000004169|1|This unit can contain a maximum of 10 models.|
@@ -2000,43 +1812,36 @@ datasheet_id|line|description|
 000004171|2|5-10 Corsair Reavers|
 000004173|1|1 Inquisitor Ostromandeus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004173|2|1 Stentor-I-52 – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004174|1|1 Kill Team Sergeant|
-000004174|2|1 Gravis Veteran|
-000004174|3|3 Deathwatch Veterans|
-000004174|4|OR|
-000004174|5|1 Kill Team Sergeant|
-000004174|6|2 Gravis Veterans|
-000004174|7|7 Deathwatch Veterans|
-000004175|1|1 Kill Team Sergeant|
-000004175|2|1 Gravis Veteran|
-000004175|3|3 Deathwatch Veterans|
-000004175|4|OR|
-000004175|5|1 Kill Team Sergeant|
-000004175|6|2 Gravis Veterans|
-000004175|7|7 Deathwatch Veterans|
+000004174|1|1 Deathwatch Veteran with Xenophase Blade and Special-issue Bolt Pistol model|
+000004174|2|1 Kill Team Sergeant model|
+000004174|3|1-2 Deathwatch Veteran with Deathwatch Marksman Bolt Carbine, Special-issue Bolt Pistol and Knives and Fists models|
+000004174|4|1-2 Deathwatch Veteran with Heavy Thunder Hammer and Bolt Pistol models|
+000004174|5|1-2 Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists models|
+000004174|6|1-2 Gravis Veteran models|
+000004175|1|1 Deathwatch Veteran with Xenophase Blade and Special-issue Bolt Pistol model|
+000004175|2|1 Kill Team Sergeant model|
+000004175|3|1-2 Deathwatch Veteran with Deathwatch Marksman Bolt Carbine, Special-issue Bolt Pistol and Knives and Fists models|
+000004175|4|1-2 Deathwatch Veteran with Heavy Thunder Hammer and Bolt Pistol models|
+000004175|5|1-2 Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists models|
+000004175|6|1-2 Gravis Veteran models|
 000004176|1|5 Canoptek Macrocytes|
 000004177|1|2 Canoptek Tomb Crawlers|
 000004178|1|1 Geomancer|
-000004182|1|1 Wolf Scout Pack Leader|
-000004182|2|4 Wolf Scouts|
-000004182|3|1 Hunting Wolf|
-000004182|4|OR|
-000004182|5|1 Wolf Scout Pack Leader|
-000004182|6|9 Wolf Scouts|
-000004182|7|2 Hunting Wolves|
-000004183|1|1 Marneus Calgar in Armour of Antilochus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004184|1|1 Cato Sicarius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004185|1|0-1 Chapter Ancient – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004185|2|0-1 Chapter Champion – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004185|3|1-6 Victrix Honour Guard|
+000004182|1|1 Wolf Scout Pack Leader model|
+000004182|2|1-2 Hunting Wolf models|
+000004182|3|4-9 Wolf Scout models|
+000004184|1|1 Cato Sicarius model|
+000004185|1|0-1 Chapter Ancient model|
+000004185|2|0-1 Chapter Champion model|
+000004185|3|1-6 Victrix Honour Guard models|
 000004186|1|1 Nekrosor Ammentar – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004187|1|1 Captain Titus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004188|1|1 Ancient Gadriel – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004188|2|1 Veteran Sergeant Metaurus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004188|3| 1 Gaius Silva – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004188|4| 1 Aemelia Minervas – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004188|5|1 Dainal Kornelius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004188|6|1 Lucia Vestha – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004187|1|1 Captain Titus model|
+000004188|1|1 Aemelia Minervas model|
+000004188|2|1 Ancient Gadriel model|
+000004188|3|1 Dainal Kornelius model|
+000004188|4|1 Gaius Silva model|
+000004188|5|1 Lucia Vestha model|
+000004188|6|1 Veteran Sergeant Metaurus model|
 000004189|1|1 Celestian Insidiant Superior|
 000004189|2|9 Celestian Insidiants|
 000004190|1|1 Garreon the Corpsemaster – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -2061,7 +1866,6 @@ datasheet_id|line|description|
 000004202|1|1 Tyranid Prime with Lash Whip|
 000004203|1|1 Ri’Lantar – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004203|2|1 Ri’Locai – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004204|1|1 Ferren Areios – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004205|1|1 Kravek Morne – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004206|1|3 Mutilators|
 000004207|1|1 Defiler|
@@ -2090,11 +1894,8 @@ datasheet_id|line|description|
 000004227|1|1 Bannernob model|
 000004228|1|1 Bigboss model|
 000004229|1|1 Big Mek Dakkarig model|
-000004231|1|1 Eradicator Sergeant|
-000004231|2|2 Eradicators|
-000004232|1|1 Wolf Guard Battle Leader in Terminator Armour|
-000004233|1|1 Wolf Guard Battle Leader on Thunderworlf|
-000004234|1|1 Company Champion on Bike|
+000004231|1|1 Eradicator Sergeant model|
+000004231|2|2-5 Eradicator models|
 000004235|1|1 Dragon Knight Leader model|
 000004235|2|2-5 Dragon Knights models|
 000004236|1|1 Leystalker model|
@@ -2106,3 +1907,9 @@ datasheet_id|line|description|
 000004242|1|1 Nazdreg model|
 000004243|1|1-2 Rukkatrukk Squigbuggy models|
 000004244|1|1 Ciaphas Cain mode|
+000004245|1|1 Sicaran model|
+000004246|1|1 Marneus Calgar model|
+000004247|1|1-2 Invader ATV models|
+000004248|1|1 Kaius Konorius model|
+000004249|1|1 Eradicator Sergeant model|
+000004249|2|2-5 Eradicator models|
