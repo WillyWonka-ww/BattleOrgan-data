@@ -518,9 +518,8 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000000875|1|Inquisitor Karamazov|8"|9|3+|4||10|6+|3|60mm||
 000000876|1|Inquisitor Coteaz|6"|3|2+|4||4|6+|1|40mm||
 000000877|1|Inquisitor|6"|3|4+|5||4|6+|1|32mm||
-000000882|1|Custodian Guard|6"|6|2+|4||3|6+|2|40mm||
-000000883|1|Venerable Contemptor Dreadnought|6"|9|2+|5||10|6+|3|60mm||
-000000884|1|Venerable Land Raider|10"|12|2+|-||16|6+|5|Use model||
+000000883|1|Venerable Contemptor Dreadnought|9"|10|2+|4||12|5+|3|60mm||
+000000884|1|Venerable Land Raider|10"|12|2+|-||16|7+|1|Use model||
 000000889|1|Primaris Psyker|6"|3|5+|-||3|7+|1|32mm||
 000000894|1|Crusaders|6"|3|3+|4||2|7+|1|25mm||
 000000895|1|Death Cult Assassins|7"|3|5+|5||2|7+|1|25mm||
@@ -736,18 +735,18 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000001398|1|Ogryn Bodyguard|6"|6|5+|-||6|7+|1|40mm||
 000001400|1|Bonesinger|7"|3|6+|4||3|6+|1|25mm||
 000001406|1|Sly Marbo|6"|3|5+|-||4|7+|1|32mm||
-000001446|1|Trajann Valoris|6"|6|2+|4||7|5+|2|40mm||
-000001447|1|Shield-captain|6"|6|2+|4||6|6+|2|40mm||
-000001448|1|Shield-captain In Allarus Terminator Armour|5"|7|2+|4||7|6+|2|40mm||
-000001449|1|Shield-captain On Dawneagle Jetbike|12"|7|2+|4||8|6+|2|75 x 42mm||
-000001450|1|Custodian Wardens|6"|6|2+|4||3|6+|2|40mm||
-000001453|1|Allarus Custodians|5"|7|2+|4||4|6+|2|40mm||
-000001454|1|Vertus Praetors|12"|7|2+|4||5|6+|2|75 x 42mm||
+000001446|1|Trajann Valoris|8"|7|2+|4||10|5+|2|40mm||
+000001447|1|Shield-Captain|8"|7|2+|4||8|5+|2|40mm||
+000001448|1|Shield-Captain in Allarus Terminator Armour|7"|8|2+|4||9|5+|2|40mm||
+000001449|1|Shield-Captain on Dawneagle Jetbike|12"|8|2+|4||10|5+|2|75 x 42mm||
+000001450|1|Custodian Wardens|8"|7|2+|4||6|5+|2|40mm||
+000001453|1|Allarus Custodians|7"|8|2+|4||6|5+|2|40mm||
+000001454|1|Vertus Praetors|12"|8|2+|4||7|5+|2|75 x 42mm||
 000001455|1|Bloodmaster|8"|4|5+|4||4|7+|1|40mm||
 000001456|1|Skullmaster|10"|7|3+|4||6|7+|2|90 x 52mm||
-000001458|1|Contemptor-achillus Dreadnought|6"|9|2+|5||10|6+|3|60mm||
-000001460|1|Caladius Grav-tank|10"|11|2+|5||14|6+|4|170 x 109mm||
-000001461|1|Coronus Grav-carrier|12"|12|2+|5||16|6+|5|170 x 109mm flying base||
+000001458|1|Contemptor-Achillus Dreadnought|9"|10|2+|5||12|5+|3|60mm||
+000001460|1|Caladius Grav-Tank|10"|11|2+|5||14|5+|4|150 x 95mm||
+000001461|1|Coronus Grav-Carrier|12"|12|2+|5||16|5+|5|150 x 95mm||
 000001462|1|Changecaster|6"|3|6+|4||3|7+|1|32mm||
 000001463|1|Fateskimmer|12"|7|6+|4||9|7+|3|120 x 92mm||
 000001464|1|Fluxmaster|12"|4|6+|4||4|7+|1|60mm flying base||
@@ -762,7 +761,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000001476|1|Mutalith Vortex Beast|10"|10|4+|5||13|6+|4|120 x 92mm||
 000001477|1|Commander In Crisis Battlesuit|10"|5|3+|-||5|7+|2|50mm||
 000001478|1|Commander In Enforcer Battlesuit|8"|5|2+|-||6|7+|2|60mm||
-000001479|1|Telemon Heavy Dreadnought|8"|10|2+|4||12|6+|4|100mm||
+000001479|1|Telemon Dreadnought|10"|11|2+|4||14|5+|4|100mm||
 000001481|1|Armiger Helverin|12"|9|3+|5|* against ranged attacks only|14|7+|6|100mm||
 000001482|1|Armiger Warglaive|12"|9|3+|5|* against ranged attacks only|14|7+|6|100mm||
 000001483|1|Knight Preceptor|10"|11|3+|5|* against ranged attacks only|26|6+|10|170 x 109mm||
@@ -778,13 +777,8 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000001546|1|Abominant|6"|6|5+|-||5|7+|1|40mm||
 000001553|1|Preacher|6"|3|6+|4||3|7+|1|32mm||
 000001556|1|Haarken Worldclaimer|12"|5|3+|4||5|6+|1|40mm||
-000001557|1|Contemptor-galatus Dreadnought|6"|9|2+|4||10|6+|3|60mm||
-000001558|1|Aquilon Custodians|5"|7|2+|4||4|6+|2|50mm||
-000001559|1|Custodian Guard With Adrasite And Pyrithite Spears|6"|6|2+|4||3|6+|2|40mm||
-000001560|1|Agamatus Custodians|12"|6|2+|4||4|6+|2|75 x 42mm flying base||
-000001561|1|Venatari Custodians|10"|6|2+|4||3|6+|2|40mm||
-000001562|1|Pallas Grav-attack|12"|8|2+|5||9|6+|2|105 x 70mm||
-000001563|1|Sagittarum Custodians|6"|6|2+|4||3|6+|2|40mm||
+000001557|1|Contemptor-Galatus Dreadnought|9"|10|2+|4||12|5+|3|60mm||
+000001562|1|Pallas Grav-attack|12"|9|2+|5||10|5+|2|105 x 70mm||
 000001564|1|Orion Assault Dropship|14"|12|2+|5||22|6+|0|160mm||
 000001565|1|Jackal Alphus|12"|4|5+|-||4|7+|1|60 x 35.5mm||
 000001567|1|Clamavus|6"|3|5+|-||3|6+|1|32mm||
@@ -851,7 +845,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000002085|1|Archaeopter Transvector|14"|9|3+|-||10|7+|0|170 x 109mm||
 000002086|1|Archaeopter Stratoraptor|-|9|3+|-||10|7+|-|170 x 109mm||
 000002087|1|Archaeopter Fusilave|-|9|3+|-||10|7+|-|170 x 109mm||
-000002088|1|Aleya|6"|3|3+|5||4|6+|1|32mm||
+000002088|1|Aleya|7"|3|3+|5||4|6+|1|32mm||
 000002090|1|Inquisitor Draxus|6"|3|3+|5||4|6+|1|32mm||
 000002092|1|Illuminor Szeras|8"|8|2+|4||9|6+|3|80mm||
 000002098|1|Hellblaster Sergeant|6"|5|3+|-||2|6+|1|32mm||
@@ -931,12 +925,9 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000002507|1|NOVITIATE SUPERIOR|6"|3|3+|6||1|7+|2|32mm||
 000002507|2|SISTER NOVITIATE|6"|3|4+|6||1|8+|2|28.5mm||
 000002509|1|Voidsmen-at-arms|6"|3|4+|-||1|7+|2|25mm||
-000002518|1|Blade Champion|6"|6|2+|4||6|6+|2|40mm||
-000002519|1|Valerian|6"|6|2+|4||6|6+|2|40mm||
-000002520|1|Knight-centura|6"|3|3+|5||4|6+|1|32mm||
-000002521|1|Prosecutors|6"|3|3+|-||1|6+|2|32mm||
-000002522|1|Vigilators|6"|3|3+|-||1|6+|1|32mm||
-000002523|1|Witchseekers|6"|3|3+|-||1|6+|1|32mm||
+000002518|1|Blade Champion|8"|7|2+|4||7|5+|2|40mm||
+000002519|1|Valerian|8"|7|2+|4||8|5+|2|40mm||
+000002520|1|Knight-Centura|7"|3|3+|5||4|6+|1|32mm||
 000002524|1|Anathema Psykana Rhino|12"|9|3+|-||10|6+|2|Use model||
 000002525|1|Reductus Saboteur|6"|3|5+|5||3|7+|1|32mm||
 000002528|1|Winged Hive Tyrant|12"|9|2+|4||10|7+|3|60mm||
@@ -1488,14 +1479,14 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004075|1||6"|3|6+|5||1|7+|1|25mm||
 000004076|1||9"|4|6+|-||1|7+|1|32mm||
 000004077|1|Fulgrim|16"|11|2+|4||16|5+|6|130mm||
-000004078|1|Lord Exultant|7"|4|3+|4||5|6+|1|40mm||
+000004078|1|Lord Exultant|7"|5|3+|4||5|6+|1|40mm||
 000004079|1|Tormentors|7"|5|3+|-||2|6+|2|32mm||
 000004080|1|Infractors|7"|5|3+|-||2|6+|2|32mm||
 000004081|1|Terminator Squad|6"|6|2+|4||3|6+|1|40mm||
 000004082|1|Chaos Land Raider|10"|12|2+|-||16|6+|5|Use model||
 000004083|1|Lucius the Eternal|8"|6|2+|4||6|6+|1|50mm||
 000004084|1|Lord Kakophonist|6"|6|2+|4||6|6+|1|40mm||
-000004085|1|Sorcerer|7"|4|3+|-||4|6+|1|40mm||
+000004085|1|Sorcerer|7"|5|3+|-||4|6+|1|40mm||
 000004086|1|Daemon Prince of Slaanesh|10"|10|2+|4||10|6+|3|60mm||
 000004087|1|Daemon Prince of Slaanesh with Wings|14"|9|2+|4||10|6+|3|60mm||
 000004088|1|Noise Marines|6"|5|3+|-||3|6+|1|40mm||
@@ -1544,7 +1535,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004129|1|Wolf Priest|7"|5|3+|4||4|6+|1|40mm||
 000004130|1|Wolf Guard Battle Leader|7"|5|3+|4||5|6+|1|40mm||
 000004131|1|Wolf Guard Headtaker|7"|5|3+|-||3|6+|1|40mm||
-000004131|2|Hunting Wolf|10"|4|6+|-||1|8+|0|40mm||
+000004131|2|Hunting Wolf|10"|4|6+|-||1|8+|0|60 x 35.5mm||
 000004132|1|Wulfen with Storm Shield|9"|6|4+|4||2|7+|0|40mm||
 000004133|1|Wulfen Dreadnought|9"|9|2+|-||8|6+|0|60mm||
 000004134|1|Knight Ruinator|10"|11|3+|5| * Against ranged attacks only|26|6+|10|170 x 109mm||
@@ -1583,8 +1574,6 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004171|1|Corsair Reaver Band|7"|3|5+|-||3|6+|2|25mm||
 000004173|1|INQUISITOR OSTROMANDEUS|6"|3|3+|5|* Inquisitor Ostromandeus only.|4|6+|1|32mm||
 000004173|2|STENTOR-I-52|6"|3|4+|-||3|8+|1|28.5mm||
-000004174|1|KILL TEAM SERGEANT, DEATHWATCH VETERAN|6"|5|3+|-||2|6+|2|32mm||
-000004174|2|GRAVIS VETERAN|5"|6|3+|-||3|6+|2|40mm||
 000004175|1|Gravis Veteran|5"|6|3+|-||3|6+|2|40mm||
 000004175|2|Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists|6"|5|3+|-||2|6+|2|32mm||
 000004175|3|Kill Team Sergeant|6"|5|3+|-||2|6+|2|32mm||
@@ -1668,3 +1657,24 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004248|1|Kaius Konorius|6"|5|2+|4||5|6+|1|40mm||
 000004249|1|Eradicator|5"|6|3+|-||3|6+|1|40mm||
 000004249|2|Eradicator Sergeant|5"|6|3+|-||3|6+|1|40mm||
+000004250|1|Custodian Guard|8"|7|2+|4||5|5+|3|40mm||
+000004251|1|Custodian Guard|8"|7|2+|4||5|5+|3|40mm||
+000004252|1|Prosecutors|7"|3|3+|-||1|6+|2|32mm||
+000004253|1|Venatari|12"|7|2+|4||5|5+|2|40mm||
+000004254|1|Aquilon Custodians|7"|8|2+|4||6|5+|2|40mm||
+000004255|1|Custodian Guard|8"|7|2+|4||5|5+|3|40mm||
+000004256|1|Witchseekers|7"|3|3+|-||1|6+|1|32mm||
+000004257|1|Agamatus Custodians|12"|8|2+|4||9|5+|2|75 x 42mm||
+000004258|1|Vigilators|7"|3|3+|-||1|6+|1|32mm||
+000004259|1|Aquilon Custodians|7"|8|2+|4||6|5+|2|40mm||
+000004260|1|Sagittarum Custodian|8"|7|2+|4||5|5+|3|40mm||
+000004261|1|Caladius Annihilator Grav Tank|10"|11|2+|5||14|5+|4|150 x 95mm||
+000004262|1|Venatari|12"|7|2+|4||5|5+|2|40mm||
+000004263|1|Custodian Guard|8"|7|2+|4||5|5+|3|40mm||
+000004264|1|Valkyrie|14"|10|2+|-||14|7+|-|120 x 92mm flying base||
+000004265|1|Cadian Recon Squad|6"|3|5+|-||1|7+|1|28.5mm||
+000004266|1|Aquila Lander|14"|9|3+|-||12|7+|0|120 x 92mm flying base||
+000004267|1|Arvus Lighter|14"|8|3+|-||8|7+|0|120 x 92mm flying base||
+000004268|1|Valkyrie Sky Talon|14"|10|2+|-||14|7+|0|120 x 92mm flying base||
+000004269|1|Vendetta Gunship|14"|10|2+|-||14|7+|0|120 x 92mm flying base||
+000004270|1|Vulture Gunship|14"|10|2+|-||14|7+|0|120 x 92mm flying base||

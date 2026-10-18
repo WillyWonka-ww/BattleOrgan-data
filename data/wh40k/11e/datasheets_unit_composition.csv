@@ -552,9 +552,8 @@ datasheet_id|line|description|
 000000875|1|1 Inquisitor Karamazov – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000000876|1|1 Inquisitor Coteaz – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000000877|1|1 Inquisitor|
-000000882|1|4-5 Custodian Guard|
-000000883|1|1 Venerable Contemptor Dreadnought|
-000000884|1|1 Venerable Land Raider|
+000000883|1|1 Venerable Contemptor Dreadnought model|
+000000884|1|1 Venerable Land Raider model|
 000000889|1|1 Primaris Psyker|
 000000894|1|2-4 Crusaders|
 000000895|1|2-4 Death Cult Assassins|
@@ -798,18 +797,18 @@ datasheet_id|line|description|
 000001398|1|1 Ogryn Bodyguard|
 000001400|1|1 Bonesinger|
 000001406|1|1 Sly Marbo – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001446|1|1 Trajann Valoris – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001447|1|1 Shield-Captain|
-000001448|1|1 Shield-Captain in Allarus Terminator Armour|
-000001449|1|1 Shield-Captain on Dawneagle Jetbike|
-000001450|1|4-5 Custodian Wardens|
-000001453|1|2-6 Allarus Custodians|
-000001454|1|2-3 Vertus Praetors|
+000001446|1|1 Trajann Valoris model|
+000001447|1|1 Shield-Captain model|
+000001448|1|1 Shield-Captain in Allarus Terminator Armour model|
+000001449|1|1 Shield-Captain on Dawneagle Jetbike model|
+000001450|1|2-3 Custodian Warden models|
+000001453|1|2-3 Allarus Custodian models|
+000001454|1|2-3 Vertus Praetor models|
 000001455|1|1 Bloodmaster|
 000001456|1|1 Skullmaster|
-000001458|1|1 Contemptor-Achillus Dreadnought|
-000001460|1|1 Caladius Grav-tank|
-000001461|1|1 Coronus Grav-carrier|
+000001458|1|1 Contemptor-Achillus Dreadnought model|
+000001460|1|1 Caladius Grav-tank model|
+000001461|1|1 Coronus Grav-carrier model|
 000001462|1|1 Changecaster|
 000001463|1|1 Fateskimmer|
 000001464|1|1 Fluxmaster|
@@ -825,7 +824,7 @@ datasheet_id|line|description|
 000001476|1|1 Mutalith Vortex Beast|
 000001477|1|1 Commander in Crisis Battlesuit|
 000001478|1|1 Commander in Enforcer Battlesuit|
-000001479|1|1 Telemon Heavy Dreadnought|
+000001479|1|1 Telemon Heavy Dreadnought model|
 000001481|1|1 Armiger Helverin|
 000001482|1|1 Armiger Warglaive|
 000001483|1|1 Knight Preceptor|
@@ -843,14 +842,9 @@ datasheet_id|line|description|
 000001546|1|1 Abominant|
 000001553|1|1 Preacher|
 000001556|1|1 Haarken Worldclaimer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000001557|1|1 Contemptor-Galatus Dreadnought|
-000001558|1|3-6 Aquilon Custodians|
-000001559|1|5 Custodian Guard with Adrasite and Pyrithite Spears|
-000001560|1|3-6 Agamatus Custodians|
-000001561|1|3-6 Venatari Custodians|
-000001562|1|1 Pallas Grav-attack|
-000001563|1|5 Sagittarum Custodians|
-000001564|1|1 Orion Assault Dropship|
+000001557|1|1 Contemptor-Galatus Dreadnought model|
+000001562|1|1 Pallas Grav-attack model|
+000001564|1|1 Orion Assault Dropship model|
 000001565|1|1 Jackal Alphus|
 000001567|1|1 Clamavus|
 000001568|1|1 Locus|
@@ -899,7 +893,7 @@ datasheet_id|line|description|
 000001667|1|1 Gladiator Reaper model|
 000001668|1|1 Eliminator Sergeant model|
 000001668|2|2 Eliminator models|
-000001680|1|1 Ares Gunship|
+000001680|1|1 Ares Gunship model|
 000001822|1|1 X-101 – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001825|1|1 Gladiator Valiant model|
 000001991|1|1 Terrax-pattern Termite model|
@@ -923,7 +917,7 @@ datasheet_id|line|description|
 000002085|1|1 Archaeopter Transvector|
 000002086|1|1 Archaeopter Stratoraptor|
 000002087|1|1 Archaeopter Fusilave|
-000002088|1|1 Aleya – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000002088|1|1 Aleya model|
 000002090|1|1 Inquisitor Draxus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002092|1|1 Illuminor Szeras – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002098|1|1 Hellblaster Sergeant model|
@@ -1011,16 +1005,10 @@ datasheet_id|line|description|
 000002509|1|1 Voidmaster|
 000002509|2|4 Voidsmen|
 000002509|3|1 Canid|
-000002518|1|1 Blade Champion|
-000002519|1|1 Valerian – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002520|1|1 Knight-Centura|
-000002521|1|1 Prosecutor Sister Superior|
-000002521|2|3-9 Prosecutors|
-000002522|1|1 Vigilator Sister Superior|
-000002522|2|3-9 Vigilators|
-000002523|1|1 Witchseeker Sister Superior|
-000002523|2|3-9 Witchseekers|
-000002524|1|1 Anathema Psykana Rhino|
+000002518|1|1 Blade Champion model|
+000002519|1|1 Valerian model|
+000002520|1|1 Knight-Centura model|
+000002524|1|1 Anathema Psykana Rhino model|
 000002525|1|1 Reductus Saboteur|
 000002528|1|1 Winged Hive Tyrant|
 000002529|1|1 Parasite of Mortrex|
@@ -1812,12 +1800,6 @@ datasheet_id|line|description|
 000004171|2|5-10 Corsair Reavers|
 000004173|1|1 Inquisitor Ostromandeus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004173|2|1 Stentor-I-52 – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000004174|1|1 Deathwatch Veteran with Xenophase Blade and Special-issue Bolt Pistol model|
-000004174|2|1 Kill Team Sergeant model|
-000004174|3|1-2 Deathwatch Veteran with Deathwatch Marksman Bolt Carbine, Special-issue Bolt Pistol and Knives and Fists models|
-000004174|4|1-2 Deathwatch Veteran with Heavy Thunder Hammer and Bolt Pistol models|
-000004174|5|1-2 Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists models|
-000004174|6|1-2 Gravis Veteran models|
 000004175|1|1 Deathwatch Veteran with Xenophase Blade and Special-issue Bolt Pistol model|
 000004175|2|1 Kill Team Sergeant model|
 000004175|3|1-2 Deathwatch Veteran with Deathwatch Marksman Bolt Carbine, Special-issue Bolt Pistol and Knives and Fists models|
@@ -1913,3 +1895,25 @@ datasheet_id|line|description|
 000004248|1|1 Kaius Konorius model|
 000004249|1|1 Eradicator Sergeant model|
 000004249|2|2-5 Eradicator models|
+000004250|1|3 Custodian Guard models|
+000004251|1|3 Custodian Guard models|
+000004252|1|4-10 Prosecutor models|
+000004253|1|3 Venatari models|
+000004254|1|3 Aquilon Terminator models|
+000004255|1|3 Sentinel Guard models|
+000004256|1|4-10 Witchseeker models|
+000004257|1|2 Gyrfalcon Jetbiker models|
+000004258|1|4-10 Vigilator models|
+000004259|1|3 Aquilon Terminator models|
+000004260|1|3 Sagittarum Custodian models|
+000004261|1|1 Caladius Annihilator Grav-tank model|
+000004262|1|3 Venatari models|
+000004263|1|3 Custodian Guard models|
+000004264|1|1 Valkyrie|
+000004265|1|1 Recon Sergeant model|
+000004265|2|9 Recon Trooper models|
+000004266|1|1 Aquila Lander|
+000004267|1|1 Arvus Lighter|
+000004268|1|1 Valkyrie Sky Talon|
+000004269|1|1 Vendetta Gunship|
+000004270|1|1 Vulture Gunship|

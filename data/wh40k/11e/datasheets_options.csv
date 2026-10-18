@@ -51,10 +51,10 @@ datasheet_id|line|button|description|
 000000053|2|•|This model can be equipped with one of the following: 1 Big Shoota and 1 Rokkit Launcha, 2 Big Shootas, 2 Rokkit Launcha|
 000000053|3|•|This model can be equipped with 1 Wreckin' Ball|
 000000054|1|•|This model can be equipped with one of the following: 1 Kannon, 1 Supa-kannon|
-000000056|1|•|This model can be equipped with up to 4 Big Shootas.|
-000000056|2|•|This model's 2 Big Shootas can be replaced with one of the following: 2 Rokkit Launcha, 2 Skorchas|
-000000056|3|•|This model's Tank Kannon and Crushin' Bulk can be replaced with 1 Deff Rolla and 3 Zzap Guns.|
-000000056|4|•|This model's Zzap Gun can be replaced with one of the following: 1 Kannon, 1 Lobba|
+000000056|1|•|This model's Dual Big Shoota can be replaced with one of the following: 1 Rokkit Launcha, 1 Skorcha.|
+000000056|2|•|This model's Skorcha can be replaced with one of the following: 1 Dual Big Shoota, 1 Rokkit Launcha.|
+000000056|3|•|This model’s Tank Kannon and Crushin’ Bulk can be replaced with 1 Deff Rolla and three of the following:<ul class="dsUlC"><li>1 Kannon.</li><li>1 Lobba.</li><li>1 Zzap Gun.</li></ul>|
+000000056|4|•|If this model is equipped with 1 Deff Rolla, it can be equipped with up to 5 Big Shootas.|
 000000059|1|•|This model's Kannon can be replaced with 1 Supa-kannon.|
 000000059|2|•|This model can be equipped with one of the following:<ul style="list-style-type:circle"><li>1 kannon</li><li>1 supa-kannon</li></ul>|
 000000065|1|•|This model can be equipped with 1 Hunter-killer Missile.|
@@ -678,11 +678,9 @@ datasheet_id|line|button|description|
 000000877|1|•|This model’s bolt pistol can be replaced with 1 combi-weapon.|
 000000877|2|•|This model’s blessed wardings can be replaced with 1 psychic gifts and 1 Psychic Shock Wave.|
 000000877|3|•|If this model is equipped with 1 psychic gifts, its Inquisitorial melee weapon can be replaced with 1 force weapon.|
-000000882|1|•|Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1 praesidium shield.|
-000000882|2|•|1 model’s guardian spear can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 vexilla and 1 misericordia</li><li>1 vexilla, 1 misericordia and 1 praesidium shield</li></ul>|
-000000883|1|•|This model’s multi-melta can be replaced with 1 Kheres-pattern assault cannon.|
-000000884|1|•|This model can be equipped with 1 hunter-killer missile.|
-000000884|2|•|This model can be equipped with 1 storm bolter.|
+000000883|1|•|This model's Multi-melta can be replaced with 1 Kheres-pattern Assault Cannon.|
+000000884|1|•|This model can be equipped with 1 Storm Bolter|
+000000884|2|•|This model can be equipped with 1 Hunter-killer Missile|
 000000894|1|•|None|
 000000895|1|•|None|
 000000897|1|•|Any number of models can each have their twin penitent buzz-blades replaced with one of the following:<ul style="list-style-type:circle"><li>1 penitent buzz-blade and 1 penitent flail</li><li>1 twin penitent flails</li></ul>|
@@ -1003,19 +1001,20 @@ datasheet_id|line|button|description|
 000001398|1|•|This model’s ripper gun can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 grenadier gauntlet</li><li>1 Bullgryn maul</li></ul>|
 000001398|2|•|This model’s huge knife can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 brute shield</li><li>1 slabshield</li></ul>|
 000001400|1|•|None|
-000001447|1|•|This model’s guardian spear can be replaced with one of the following:<br><ul><li>1 castellan axe</li><li>1 sentinel blade</li><li>1 sentinel blade and 1 praesidium shield</li><li>1 pyrithite spear and 1 praesidium shield</li></ul>|
-000001448|1|•|This model’s guardian spear can be replaced with 1 castellan axe.|
-000001449|1|•|This model’s salvo launcher can be replaced with 1 Vertus hurricane bolter.|
-000001450|1|•|Any number of models can each have their guardian spear replaced with 1 castellan axe.|
-000001450|2|•|1 model can be equipped with 1 vexilla.|
-000001453|1|•|Any number of models can each have their guardian spear replaced with 1 castellan axe.|
-000001453|2|•|1 model’s guardian spear can be replaced with 1 vexilla and 1 misericordia.|
-000001454|1|•|Any number of models can each have their salvo launcher replaced with 1 Vertus hurricane bolter.|
+000001447|1|•|This model’s Pyrithite Spear can be replaced with 1 Eternity-pattern Paragon Blade.|
+000001447|2|•|This model’s Pyrithite Spear and Praesidium Shield can be replaced with one of the following:<ul class="dsUlC"><li>Castellan Axe</li><li>Guardian Spear</li></ul>|
+000001448|1|•|This model’s Guardian Spear can be replaced with 1 Castellan Axe.|
+000001449|1|•|This model’s Salvo Launcher can be replaced with 1 Hurricane Bolter.|
+000001450|1|•|All models in this unit can each have their Guardian Spear replaced with 1 Castellan Axe.|
+000001450|2|•|1 model can be equipped with 1 Vexilla.|
+000001453|1|•|1 model can be equipped with 1 Vexilla.|
+000001453|2|•|All models in this unit can each have their Guardian Spear replaced with 1 Castellan Axe.|
+000001454|1|•|All models in this unit can each have their Salvo Launcher replaced with 1 Hurricane Bolter.|
 000001455|1|•|None|
 000001456|1|•|None|
-000001458|1|•|This model’s 2 lastrum storm bolters can be replaced with one of the following:<ul style="list-style-type:circle"><li>2 infernus incinerators</li><li>2 twin adrathic destructors</li><li>1 lastrum storm bolter and 1 infernus incinerator</li><li>1 lastrum storm bolter and 1 twin adrathic destructor</li><li>1 infernus incinerator and 1 twin adrathic destructor</li></ul>|
-000001460|1|•|This model’s twin iliastus accelerator cannon can be replaced with 1 twin arachnus heavy blaze cannon.|
-000001461|1|•|None|
+000001458|1|•|This model’s 2 Lastrum Storm Bolter can be replaced with one of the following:<ul class="dsUlC"><li>2 Adrathic Combi-destructor</li><li>2 Twin Infernus Incinerator</li></ul>|
+000001460|1|•|This model’s Twin Lastrum Bolt Cannon can be replaced with 1 Twin Neutronium Cascade Projectors.|
+000001461|1|•|This model’s Twin Lastrum Bolt Cannon can be replaced with 1 Twin Neutronium Cascade Projectors.|
 000001462|1|•|None|
 000001463|1|•|None|
 000001464|1|•|None|
@@ -1034,7 +1033,7 @@ datasheet_id|line|button|description|
 000001478|2|•|This model can be equipped with up to two of the following, and can take duplicates:<ul style="list-style-type:circle"><li>1 gun drone</li><li>1 marker drone</li><li>1 shield drone</li></ul>|
 000001478|3|•|This model can be equipped with up to three of the following, and can take duplicates:<ul style="list-style-type:circle"><li>1 airbursting fragmentation projector*</li><li>1 battlesuit support system*</li><li>1 burst cannon</li><li>1 cyclic ion blaster*</li><li>1 fusion blaster</li><li>1 missile pod</li><li>1 plasma rifle</li><li>1 shield generator*</li><li>1 T’au flamer</li><li>1 weapon support system* </li></ul>|
 000001478|4|*|* This model cannot have duplicates of these pieces of wargear. |
-000001479|1|•|This model’s 2 iliastus accelerator culverins can be replaced with one of the following:<ul style="list-style-type:circle"><li>2 arachnus storm cannons</li><li>2 Telemon caestus and 2 twin plasma projectors</li><li>1 iliastus accelerator culverin and 1 arachnus storm cannon</li><li>1 iliastus accelerator culverin, 1 Telemon caestus and 1 twin plasma projector</li><li>1 arachnus storm cannon, 1 Telemon caestus and 1 twin plasma projector</li></ul>|
+000001479|1|•|This model’s Dual Caestus Fists and 2 Twin Neutronium Cascade Projectors can be replaced with one of the following:<ul class="dsUlC"><li>1 Adrathic Desolator, 1 Caestus Fist and 1 Twin Neutronium Cascade Projectors</li><li>1 Arachnus Storm Cannon, 1 Caestus Fist and 1 Twin Neutronium Cascade Projectors</li><li>1 Caestus Fist, 1 Iliastus Accelerator Culverin and 1 Twin Neutronium Cascade Projectors</li></ul>|
 000001481|1|•|This model’s Questoris heavy stubber can be replaced with 1 meltagun.|
 000001482|1|•|This model’s Questoris heavy stubber can be replaced with 1 meltagun.|
 000001483|1|•|This model’s Questoris multi-laser can be replaced with one of the following<ul style="list-style-type:circle"><li>1 meltagun</li><li>1 Questoris heavy stubber</li></ul>|
@@ -1050,15 +1049,7 @@ datasheet_id|line|button|description|
 000001526|3|•|1 Secutarii Peltast can be equipped with one of the following:<ul style="list-style-type:circle"><li>1 enhanced data-tether</li><li>1 omnispex</li></ul>|
 000001533|1|•|This model’s 2 combi-bolters can be replaced with one of the following<ul style="list-style-type:circle"><li>2 heavy flamers</li><li>2 twin volkite chargers</li></ul>|
 000001553|1|•|This model’s zealot’s vindictor can be replaced with 1 holy pistol and 1 power weapon.|
-000001557|1|•|None|
-000001558|1|•|Any number of models can each have their lastrum storm bolter replaced with one of the following:<ul style="list-style-type:circle"><li>1 infernus firepike</li><li>1 twin adrathic destructor</li></ul>|
-000001558|2|•|Any number of models can each have their solerite power gauntlet replaced with 1 solerite power talon.|
-000001559|1|•|Any number of models can each have their adrasite spear replaced with 1 pyrithite spear.|
-000001560|1|•|Any number of models can each have their lastrum bolt cannon replaced with one of the following:<ul style="list-style-type:circle"><li>1 adrathic devastator</li><li>1 twin las-pulsar</li></ul>|
-000001561|1|•|Any number of models can each have their Venatari lance replaced with 1 kinetic destroyer and 1 tarsus buckler.|
-000001562|1|•|None|
-000001563|1|•|None|
-000001564|1|•|None|
+000001562|1|•|This model’s Twin Arachnus Blaze Cannon can be replaced with 1 Twin Iliastus Accelerator Fusil.|
 000001569|1|•|This model’s Sanctus bio-dagger can be replaced with 1 cult sniper rifle and 1 close combat weapon.|
 000001573|1|•|Any number of models can each have their heavy mining laser replaced with one of the following:<ul style="list-style-type:circle"><li>1 achilles missile launcher</li><li>1 heavy mortar</li></ul>|
 000001573|2|•|Any number of models can each have their flare launcher replaced with one of the following:<ul style="list-style-type:circle"><li>1 spotter</li><li>1 survey augur</li></ul>|
@@ -1102,7 +1093,6 @@ datasheet_id|line|button|description|
 000001666|3|•|This model's Twin Heavy Bolter can be replaced with 1 Twin Heavy Flamer.|
 000001668|1|•|The Eliminator Sergeant can have their Bolt Sniper Rifle replaced with one of the following:<ul class="dsUlC"><li>1 Instigator Bolt Carbine</li><li>1 Las Fusil</li></ul>|
 000001668|2|•|All Eliminator models in this unit can each have their Bolt Sniper Rifle replaced with 1 Las Fusil.|
-000001680|1|•|None|
 000001822|1|•|None|
 000001991|1|•|This model's 2 Combi-weapons can be replaced with one of the following: 2 Heavy Flamers, 2 Twin Volkite Chargers|
 000001994|1|•|This model’s Carnodon twin autocannon can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 Carnodon twin lascannon</li><li>1 Carnodon twin multi-laser</li><li>1 volkite culverin</li></ul>|
@@ -1175,9 +1165,8 @@ datasheet_id|line|button|description|
 000002507|3|•|1 Sister Novitiate’s autogun can be replaced with 1 simulacrum imperialis.|
 000002507|4|•|Up to 2 Sisters Novitiate can each have their autogun replaced with 1 Ministorum flamer.|
 000002507|5|•|Any number of Sisters Novitiate can each have their autogun and close combat weapon replaced with 1 Novitiate melee weapons.|
-000002520|1|•|This model’s executioner greatblade can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 master-crafted boltgun and 1 close combat weapon</li><li>1 Witchseeker flamer and 1 close combat weapon</li></ul>|
-000002523|1|•|None|
-000002524|1|•|This model can be equipped with 1 hunter-killer missile.|
+000002520|1|•|This model’s Executioner Greatblade can be replaced with one of the following:<ul class="dsUlC"><li>1 Master-crafted Boltgun and 1 Gun Stock</li><li>1 Master-crafted Flamer and 1 Gun Stock</li></ul>|
+000002524|1|•|This model can be equipped with 1 Hunter-killer Missile.|
 000002528|1|•|This model’s monstrous bonesword and lash whip can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 heavy venom cannon</li><li>1 stranglethorn cannon</li><li>1 monstrous scything talons</li></ul>|
 000002530|1|•|This model’s Special-issue Bolt Pistol can be replaced with 1 Master-crafted Bolt Carbine.|
 000002531|1|•|The Voidreaver Felarch’s shuriken pistol can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 neuro disruptor</li><li>1 shuriken rifle</li></ul>|
@@ -1353,12 +1342,9 @@ datasheet_id|line|button|description|
 000002692|2|•|For every 3 models in this unit, 1 model’s devourer can be replaced with 1 barbed strangler.|
 000002692|3|•|For every 3 models in this unit, 1 model’s devourer can be replaced with 1 venom cannon.|
 000002694|1|•|None|
-000002700|1|•|This model's 2 Astareus Las-rippers can be replaced with 2 Plasma Eradicator - Standards.|
+000002700|1|•|This model's 2 Astareus Las-rippers can be replaced with 2 Plasma Eradicator.|
 000002700|2|•|This model can be equipped with 1 Ironhail Heavy Stubber|
 000002700|3|•|This model's Twin Heavy Bolter can be replaced with 1 Twin Lascannon.|
-000002700|4|•|This model’s 2 Astraeus las-rippers can be replaced with 2 plasma eradicators.|
-000002700|5|•|This model’s twin heavy bolter can be replaced with 1 twin lascannon.|
-000002700|6|•|This model can be equipped with 1 ironhail heavy stubber.|
 000002702|1|•|This model’s Heavy Bolt Pistol can be replaced with 1 Plasma Pistol.|
 000002702|2|•|This model’s Master-crafted Power Weapon can be replaced with 1 Thunder Hammer.|
 000002703|1|•|Any number of models can each have their Centurion Bolters replaced with 1 Centurion Assault Launcher|
@@ -1491,7 +1477,7 @@ datasheet_id|line|button|description|
 000002791|2|•|This model can be equipped with 1 Multi-melta|
 000002791|3|•|This model's Heavy onslaught gatling cannon can be replaced with 1 Las-talon.|
 000002793|1|•|This model's Combi-weapon can be replaced with 1 Heavy Bolt Pistol.|
-000002793|2|•|This model's Master-crafted Power Weapon can be replaced with 1 Astartes Chainsword.|
+000002793|2|•|This model's Master-crafted Power Weapon can be replaced with 1 Chainsword.|
 000002796|1|•|This model's Plasma Pistol can be replaced with 1 Combi-weapon.|
 000002798|1|•|For every 4 models in this unit, up to 2 models can each have their Heavy Bolt Pistol replaced with 1 Hand Flamer.|
 000002798|2|•|Any number of models can each have their Chainsword replaced with 1 Master-crafted Power Weapon.|
@@ -2265,9 +2251,6 @@ datasheet_id|line|button|description|
 000004171|2|•|For every 5 models in this unit, 1 model’s Corsair firearm can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 Aeldari missile launcher</li><li>1 blaster</li><li>1 dark lance</li><li>1 flamer</li><li>1 fusion gun</li><li>1 shredder</li><li>1 shuriken cannon</li><li>1 splinter cannon</li></ul>|
 000004171|3|•|The Corsair Reaver Felarch can be equipped with one of the following:<ul style="list-style-type:circle"><li>1 dissonance pistol</li><li>1 void sabre</li></ul>|
 000004173|1|•|None|
-000004174|1|•|For every 5 models in this unit, 1 Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists model can have their Stalker Bolt Rifle replaced with 1 Plasma Incinerator.|
-000004174|2|•|For every 5 models in this unit, 1 Gravis Veteran model can have their Infernus Heavy Bolter replaced with one of the following: 1 Frag Cannon, 1 Hellstorm Bolt Rifle and 1 Grenade Launcher|
-000004174|3|•|For every 5 models in this unit, 1 Deathwatch Veteran with Heavy Thunder Hammer and Bolt Pistol model can have their Heavy Thunder Hammer replaced with 1 Power Weapon and 1 Storm Shield.|
 000004175|1|•|For every 5 models in this unit, 1 Gravis Veteran model can have their Infernus Heavy Bolter replaced with one of the following: 1 Frag Cannon, 1 Hellstorm Bolt Rifle and 1 Grenade Launcher|
 000004175|2|•|For every 5 models in this unit, 1 Deathwatch Veteran with Heavy Thunder Hammer and Bolt Pistol model can have their Heavy Thunder Hammer replaced with 1 Power Weapon and 1 Storm Shield.|
 000004175|3|•|For every 5 models in this unit, 1 Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fist model can have their Stalker Bolt Rifle replaced with 1 Plasma Incinerator.|
@@ -2354,3 +2337,22 @@ datasheet_id|line|button|description|
 000004245|4|•|This model's Herakles-pattern Autocannon can be replaced with one of the following: 1 Arcus Multi-launcher, 1 Omega Plasma Array, 1 Punisher Rotary Cannon, 1 Venator Neutron Laser|
 000004247|1|•|All models in this unit can each have their Onslaught Gatling Cannon replaced with 1 Multi-melta.|
 000004249|1|•|For every 3 models in this unit, 1 Eradicator model can have their Melta Rifle replaced with 1 Multi-melta.|
+000004251|1|•|1 model can be equipped with 1 Vexilla.|
+000004255|1|•|1 model can be equipped with 1 Vexilla.|
+000004257|1|•|All models in this unit can each have their Lastrum Bolt Cannon replaced with one of the following:<ul class="dsUlC"><li>1 Adrathic Devastator</li><li>1 Arachnus Volley Cannon</li><li>1 Twin Corvae Las-pulser</li></ul>|
+000004259|1|•|All models in this unit can each have their Lastrum Storm Bolter replaced with 1 Infernus Firepike.|
+000004261|1|•|This model’s Twin Lastrum Bolt Cannon can be replaced with 1 Twin Neutronium Cascade Projectors.|
+000004264|1|•|This model’s multi-laser can be replaced with 1 lascannon.|
+000004264|2|•|This model’s hellstrike missiles can be replaced with 2 multiple rocket pods.|
+000004264|3|•|This model can be equipped with 2 heavy bolters.|
+000004265|1|•|One Recon Trooper can replace their lasgun with 1 autostubber.|
+000004265|2|•|One Recon Trooper can replace their lasgun with one of the following:<ul style="list-style-type:circle"><li>1 plasma gun</li><li>1 meltagun</li></ul>|
+000004265|3|•|Up to one Recon Trooper can replace their lasgun with 1 long-las.|
+000004265|4|•|One Recon Trooper equipped with 1 lasgun can be equipped with 1 vox-caster and 1 vox-relay beacon (that model’s lasgun cannot be replaced).|
+000004265|5|•|You can select one of the following options:<ul style="list-style-type:circle"><li>Up to one Recon Trooper can replace their lasgun with 1 long-las.</li><li>Up to two Recon Troopers each equipped with a lasgun can form a weapons team. If they do, one model’s lasgun is replaced with 1 laspistol, and one model’s lasgun is replaced with 1 missile launcher and 1 laspistol.</li></ul>|
+000004266|1|•|This model’s heavy bolter can be replaced with one of the following:<ul style="list-style-type:circle"><li>1 autocannon</li><li>1 multi-laser</li></ul>|
+000004267|1|•|None|
+000004268|1|•|This model’s 2 hellstrike missiles can be replaced with 2 multiple rocket pods.|
+000004269|1|•|2 of this model’s Vendetta twin lascannons can be replaced with 1 Vendetta hellstrike rack.|
+000004269|2|•|This model can be equipped with 2 heavy bolters.|
+000004270|1|•|This model’s 2 multiple rocket pods and Vulture hellstrike rack can be replaced with 2 Vulture gatling cannons.|
