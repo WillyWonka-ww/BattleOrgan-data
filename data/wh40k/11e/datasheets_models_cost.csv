@@ -2646,11 +2646,11 @@ datasheet_id|line|description|cost|
 000001573|8|per Heavy mining laser|10|
 000001574|1|YOUR 1ST TO 2ND UNITS COST||
 000001574|2|5 models|85|
-000001574|3|9 models|160|
+000001574|3|9 models|150|
 000001574|4|10 models|150|
 000001574|5|YOUR 3RD+ UNIT COSTS||
 000001574|6|5 models|95|
-000001574|7|9 models|170|
+000001574|7|9 models|160|
 000001574|8|10 models|160|
 000001576|1|YOUR UNIT COSTS||
 000001576|2|1 model|125|
@@ -3159,11 +3159,10 @@ datasheet_id|line|description|cost|
 000002531|2|5 models|65|
 000002531|3|10 models|110|
 000002532|1|YOUR UNIT COSTS||
-000002532|2|5 models|70|
-000002532|3|13 models|140|
-000002532|4|6 models|140|
-000002532|5|7 models|140|
-000002532|6|8 models|140|
+000002532|2|<div class="dsHeaderComp">1 Voidscarred Felarch, 4 Corsair Voidscarred</div>||
+000002532|3|5 models|70|
+000002532|4|<div class="dsHeaderComp">1 Voidscarred Felarch, 5-9 Corsair Voidscarred, 0-1 Shade Runner, 0-1 Soul Weaver, 0-1 Way Seeker</div>||
+000002532|5|6-10 models|140|
 000002533|1|YOUR UNIT COSTS||
 000002533|2|3 models|90|
 000002533|3|6 models|165|
@@ -5140,11 +5139,10 @@ datasheet_id|line|description|cost|
 000004168|2|5 models|65|
 000004168|3|10 models|110|
 000004169|1|YOUR UNIT COSTS||
-000004169|2|5 models|70|
-000004169|3|13 models|140|
-000004169|4|6 models|140|
-000004169|5|7 models|140|
-000004169|6|8 models|140|
+000004169|2|<div class="dsHeaderComp">1 Voidscarred Felarch, 4 Corsair Voidscarred</div>||
+000004169|3|5 models|70|
+000004169|4|<div class="dsHeaderComp">1 Voidscarred Felarch, 5-9 Corsair Voidscarred, 0-1 Shade Runner, 0-1 Soul Weaver, 0-1 Way Seeker</div>||
+000004169|5|6-10 models|140|
 000004170|1|YOUR UNIT COSTS||
 000004170|2|3 models|125|
 000004170|3|4 models|150|
@@ -5157,6 +5155,9 @@ datasheet_id|line|description|cost|
 000004171|5|11 models|275|
 000004173|1|YOUR UNIT COSTS||
 000004173|2|2 models|65|
+000004174|1|YOUR UNIT COSTS||
+000004174|2|5 models|110|
+000004174|3|10 models|210|
 000004175|1|YOUR UNIT COSTS||
 000004175|2|5 models|110|
 000004175|3|10 models|210|

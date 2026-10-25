@@ -656,7 +656,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000001139|1|Herald Of Slaanesh On Steed Of Slaanesh|14"|4|7+|5||4|7+|2|60 x 35.5mm||
 000001142|1|Daemonettes|9"|3|7+|5||1|7+|2|25mm||
 000001143|1|Fiends|12"|5|7+|5||4|7+|2|75 x 42mm||
-000001144|1|Hellflayer|14"|6|5+|4||7|7+|3|120 x 92mm||
+000001144|1|Hellflayer|14"|6|5+|5||7|7+|3|120 x 92mm||
 000001145|1|Seekers|14"|4|7+|5||2|7+|1|60 x 35.5mm||
 000001148|1|Be’lakor|12"|11|3+|4||20|6+|5|100mm||
 000001149|1|Daemon Prince of Chaos|8"|10|2+|4||10|6+|3|60mm||
@@ -820,7 +820,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000001660|1|Knight Desecrator|10"|11|3+|5|* Against ranged attacks only|26|6+|10|170 x 109mm||
 000001661|1|Knight Rampager|12"|11|3+|5|* Against ranged attacks only|26|6+|10|170 x 109mm||
 000001662|1|Chaos Acastus Knight Asterius|8"|13|2+|5|* Against ranged attacks only|30|6+|10|Use model||
-000001663|1|War Dog Moirax|12"|10|3+|5|* Against ranged attacks only|12|7+|8|100mm||
+000001663|1|War Dog Moirax|12"|9|3+|5|* Against ranged attacks only|14|7+|6|100mm||
 000001664|1|Acastus Knight Asterius|8"|13|2+|5|* Against ranged attacks only|30|6+|10|Use model||
 000001666|1|Falchion|9"|13|2+|-||24|6+|8|Use model||
 000001667|1|Gladiator Reaper|10"|10|3+|-||12|6+|3|100mm||
@@ -858,7 +858,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000002109|1|Skorpekh Lord|8"|7|3+|4||7|6+|2|60mm||
 000002110|1|Skorpekh Destroyers|8"|6|3+|-||3|7+|2|50mm||
 000002111|1|Cryptothralls|5"|4|3+|-||3|8+|1|32mm||
-000002112|1|Canoptek Reanimator|8"|6|3+|-||6|7+|3|60mm||
+000002112|1|Canoptek Reanimator|8"|6|3+|-||6|8+|3|60mm||
 000002114|1|Canoptek Scarab Swarms|10"|2|6+|-||4|8+|0|40mm||
 000002115|1|Canoptek Doomstalker|8"|8|3+|4||12|8+|4|90mm||
 000002116|1|Lokhust Heavy Destroyers|8"|6|3+|-||4|7+|2|60mm||
@@ -1278,7 +1278,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000003873|2|Deathwatch Terminator Sergeant|5"|6|2+|4||3|6+|1|40mm||
 000003874|1|Kill Team Intercessor with Jump Pack|12"|5|3+|-||2|6+|1|32mm||
 000003874|2|Kill Team Sergeant with Jump Pack|12"|5|3+|-||2|6+|1|32mm||
-000003874|3|Kill Team Heavy Intercessor with Jump Pack|10"|6|3+|-||3|6+|1|32mm||
+000003874|3|Kill Team Heavy Intercessor with Jump Pack|10"|6|3+|-||3|6+|1|40mm||
 000003875|1|KILL TEAM VETERAN|6"|4|3+|-||2|6+|2|32mm||
 000003875|2|KILL TEAM BIKER|12"|5|3+|-||3|6+|2|75 x 42mm||
 000003875|3|CHAPLAIN CASSIUS|6"|4|3+|4|* Chaplain Cassius and Kill Team Terminator models only.|4|5+|2|32mm||
@@ -1574,6 +1574,8 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004171|1|Corsair Reaver Band|7"|3|5+|-||3|6+|2|25mm||
 000004173|1|INQUISITOR OSTROMANDEUS|6"|3|3+|5|* Inquisitor Ostromandeus only.|4|6+|1|32mm||
 000004173|2|STENTOR-I-52|6"|3|4+|-||3|8+|1|28.5mm||
+000004174|1|KILL TEAM SERGEANT, DEATHWATCH VETERAN|6"|5|3+|-||2|6+|2|32mm||
+000004174|2|GRAVIS VETERAN|5"|6|3+|-||3|6+|2|40mm||
 000004175|1|Gravis Veteran|5"|6|3+|-||3|6+|2|40mm||
 000004175|2|Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists|6"|5|3+|-||2|6+|2|32mm||
 000004175|3|Kill Team Sergeant|6"|5|3+|-||2|6+|2|32mm||
@@ -1583,7 +1585,7 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004176|1|Canoptek Macrocytes|8"|3|4+|-||1|8+|1|28.5mm||
 000004177|1|Canoptek Tomb Crawlers|5"|4|3+|-||3|8+|1|50mm||
 000004178|1|Geomancer|8"|4|4+|-||4|6+|1|50mm||
-000004182|1|Hunting Wolf|10"|4|6+|-||1|8+|0|32mm||
+000004182|1|Hunting Wolf|10"|4|6+|-||1|8+|0|60 x 35.5mm||
 000004182|2|Wolf Scout|8"|4|3+|-||2|6+|1|32mm||
 000004182|3|Wolf Scout Pack Leader|8"|4|3+|-||2|6+|1|32mm||
 000004184|1|Cato Sicarius|6"|5|2+|4||5|6+|1|40mm||
@@ -1592,12 +1594,12 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004185|3|Chapter Champion|6"|5|2+|-||3|6+|2|40mm||
 000004186|1|Nekrosor Ammentar|10"|8|3+|4||9|6+|3|80mm||
 000004187|1|Captain Titus|6"|5|3+|4||6|6+|1|40mm||
-000004188|1|Gaius Silva|6"|3|4+|5|Gaius Silva only|3|6+|1|40mm||
-000004188|2|Aemelia Minervas|6"|3|4+|-||3|6+|1|40mm||
+000004188|1|Gaius Silva|6"|3|4+|5|Gaius Silva only|3|6+|1|28.5mm||
+000004188|2|Aemelia Minervas|6"|3|4+|-||3|6+|1|28.5mm||
 000004188|3|Veteran Sergeant Metaurus|6"|5|3+|4|Veteran Sergeant Metaurus only|4|6+|1|40mm||
-000004188|4|Dainal Komelius|6"|3|4+|-||3|6+|1|40mm||
+000004188|4|Dainal Komelius|6"|3|4+|-||3|6+|1|28.5mm||
 000004188|5|Ancient Gadriel|6"|5|3+|-||4|6+|2|40mm||
-000004188|6|Lucia Vestha|6"|3|4+|-||3|6+|1|40mm||
+000004188|6|Lucia Vestha|6"|3|4+|-||3|6+|1|28.5mm||
 000004189|1|Celestian Insidiants|6"|3|3+|5||1|7+|1|32mm||
 000004190|1|GARLON SOULEATER, GARREON THE CORPSEMASTER, KATAR GARRIX|6"|5|3+|-||4|6+|1|40mm||
 000004190|2|CAPTAIN SARGOTTA, THE ENFORCER|6"|3|4+|-||3|6+|1|40mm|The Enforcer 32mm|
@@ -1661,12 +1663,12 @@ datasheet_id|line|name|M|T|Sv|inv_sv|inv_sv_descr|W|Ld|OC|base_size|base_size_de
 000004251|1|Custodian Guard|8"|7|2+|4||5|5+|3|40mm||
 000004252|1|Prosecutors|7"|3|3+|-||1|6+|2|32mm||
 000004253|1|Venatari|12"|7|2+|4||5|5+|2|40mm||
-000004254|1|Aquilon Custodians|7"|8|2+|4||6|5+|2|40mm||
+000004254|1|Aquilon Custodians|7"|8|2+|4||6|5+|2|50mm||
 000004255|1|Custodian Guard|8"|7|2+|4||5|5+|3|40mm||
 000004256|1|Witchseekers|7"|3|3+|-||1|6+|1|32mm||
 000004257|1|Agamatus Custodians|12"|8|2+|4||9|5+|2|75 x 42mm||
 000004258|1|Vigilators|7"|3|3+|-||1|6+|1|32mm||
-000004259|1|Aquilon Custodians|7"|8|2+|4||6|5+|2|40mm||
+000004259|1|Aquilon Custodians|7"|8|2+|4||6|5+|2|50mm||
 000004260|1|Sagittarum Custodian|8"|7|2+|4||5|5+|3|40mm||
 000004261|1|Caladius Annihilator Grav Tank|10"|11|2+|5||14|5+|4|150 x 95mm||
 000004262|1|Venatari|12"|7|2+|4||5|5+|2|40mm||

@@ -664,7 +664,7 @@ datasheet_id|line|description|
 000001048|1|2 Chaos Spawn|
 000001049|1|1 Chaos Land Raider|
 000001050|1|1 Chaos Predator Annihilator|
-000001052|1|1 Daemon Prince of Nurgle|
+000001052|1|1 Death Guard Daemon Prince|
 000001053|1|1 Typhus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001054|1|1 Lord of Contagion|
 000001055|1|1 Malignant Plaguecaster|
@@ -840,7 +840,7 @@ datasheet_id|line|description|
 000001537|1|1 Deffkilla Wartrike model|
 000001545|1|1 Mekboy Workshop model|
 000001546|1|1 Abominant|
-000001553|1|1 Preacher|
+000001553|1|1 Ministorum Priest|
 000001556|1|1 Haarken Worldclaimer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001557|1|1 Contemptor-Galatus Dreadnought model|
 000001562|1|1 Pallas Grav-attack model|
@@ -918,7 +918,7 @@ datasheet_id|line|description|
 000002086|1|1 Archaeopter Stratoraptor|
 000002087|1|1 Archaeopter Fusilave|
 000002088|1|1 Aleya model|
-000002090|1|1 Inquisitor Draxus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000002090|1|1 Lord Inquisitor Kyria Draxus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002092|1|1 Illuminor Szeras – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002098|1|1 Hellblaster Sergeant model|
 000002098|2|4-9 Hellblaster models|
@@ -984,7 +984,7 @@ datasheet_id|line|description|
 000002483|1|1 Paragon Superior|
 000002483|2|2 Paragons|
 000002484|1|1 Castigator|
-000002485|1|1 Ibram Gaunt|
+000002485|1|1 Ibram Gaunt – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002485|2|5 Tanith Ghosts|
 000002488|1|1 Zodgrod Wortsnagga model|
 000002489|1|1 Beastboss model|
@@ -1107,7 +1107,7 @@ datasheet_id|line|description|
 000002622|1|1 Khârn the Betrayer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002623|1|1 Lord Invocatus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002624|1|1 Daemon Prince of Khorne|
-000002625|1|1 Lord on Juggernaut|
+000002625|1|1 World Eaters Lord on Juggernaut|
 000002626|1|1 Master of Executions|
 000002627|1|1 Khorne Berzerker Champion|
 000002627|2|9-19 Khorne Berzerkers|
@@ -1128,7 +1128,7 @@ datasheet_id|line|description|
 000002638|1|1 Forgefiend|
 000002639|1|1 Maulerfiend|
 000002640|1|1 Chaos Rhino|
-000002641|1|1 Heldrake|
+000002641|1|1 Chaos Heldrake|
 000002642|1|1 Khorne Lord of Skulls|
 000002677|1|1 Ancient in Terminator Armour model|
 000002679|1|1 Vashtorr the Arkifane – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -1335,7 +1335,7 @@ datasheet_id|line|description|
 000003707|1|1 Big Mek model|
 000003710|1|1 Yaegir Theyn|
 000003710|2|9 Hernkyn Yaegirs|
-000003711|1|1 Chaos Lord|
+000003711|1|1 Chaos Lord with Jump Pack|
 000003712|1|1 Cultist Firebrand |
 000003713|1|1 Cultist Champion|
 000003713|2|9-19 Chaos Cultists|
@@ -1354,7 +1354,7 @@ datasheet_id|line|description|
 000003817|1|1 Corvus Blackstar|
 000003818|1|1 Sister Superior|
 000003818|2|9 Battle Sisters|
-000003819|1|1 Immolator|
+000003819|1|1 Sisters of Battle Immolator|
 000003820|1|1 Inquisitorial Chimera|
 000003821|1|1 Chaplain Cassius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000003821|2|8 Kill Team Veterans:<br><ul style="list-style-type:circle;"><li>Vael Donatus</li><li>Zameon Gydrael</li><li>Rodricus Grytt</li><li>Antor Delassio</li><li>Edryc Setorax</li><li>Jensus Natorian</li><li>Drenn Redblade</li><li>Ennox Sorrlock</li></ul>|
@@ -1460,7 +1460,7 @@ datasheet_id|line|description|
 000003890|1|1 Lord Marshal Dreir – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000003891|1|1 Catachan Commander|
 000003891|2|4 Veteran Guardsmen|
-000003892|1|1 Rogal Dorn Tank Commander|
+000003892|1|1 Rogal Dorn Commander|
 000003893|1|1 Krieg Engineer Watchmaster|
 000003893|2|4-9 Krieg Combat Engineers|
 000003894|1|3 Heavy Weapons Teams|
@@ -1474,7 +1474,7 @@ datasheet_id|line|description|
 000003910|1|1 D-cannon Platform|
 000003911|1|1 Shadow Weaver Platform|
 000003912|1|1 Vibro Cannon Platform|
-000003913|1|1 Wraithknight with Ghostglaive|
+000003913|1|1 Wraithknight|
 000003914|1|1 Archon|
 000003915|1|1 Succubus|
 000003916|1|1 Sybarite|
@@ -1499,7 +1499,7 @@ datasheet_id|line|description|
 000003941|2|5 Veteran Guardsmen|
 000003942|1|1 Leman Russ Commander|
 000003943|1|1 Primaris Psyker|
-000003944|1|1 Rogal Dorn Tank Commander|
+000003944|1|1 Rogal Dorn Commander|
 000003945|1|1 Death Rider Commissar|
 000003946|1|1 Quartermaster Revenant|
 000003946|2|4 Medicae Servitors|
@@ -1609,7 +1609,7 @@ datasheet_id|line|description|
 000004035|1|1 Valdor|
 000004036|1|1 Chaos Lord|
 000004037|1|1 Chaos Lord in Terminator Armour|
-000004038|1|1 Chaos Lord|
+000004038|1|1 Chaos Lord with Jump Pack|
 000004039|1|1 Chaos Lord on Disc of Tzeentch|
 000004040|1|1 Chaos Lord on Juggernaut|
 000004041|1|1 Chaos Lord on Palanquin of Nurgle|
@@ -1800,6 +1800,12 @@ datasheet_id|line|description|
 000004171|2|5-10 Corsair Reavers|
 000004173|1|1 Inquisitor Ostromandeus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004173|2|1 Stentor-I-52 – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004174|1|1 Deathwatch Veteran with Xenophase Blade and Special-issue Bolt Pistol model|
+000004174|2|1 Kill Team Sergeant model|
+000004174|3|1-2 Deathwatch Veteran with Deathwatch Marksman Bolt Carbine, Special-issue Bolt Pistol and Knives and Fists models|
+000004174|4|1-2 Deathwatch Veteran with Heavy Thunder Hammer and Bolt Pistol models|
+000004174|5|1-2 Deathwatch Veteran with Stalker Bolt Rifle, Bolt Pistol and Knives and Fists models|
+000004174|6|1-2 Gravis Veteran models|
 000004175|1|1 Deathwatch Veteran with Xenophase Blade and Special-issue Bolt Pistol model|
 000004175|2|1 Kill Team Sergeant model|
 000004175|3|1-2 Deathwatch Veteran with Deathwatch Marksman Bolt Carbine, Special-issue Bolt Pistol and Knives and Fists models|
@@ -1858,7 +1864,7 @@ datasheet_id|line|description|
 000004211|2|4 Hastarii Exterminators|
 000004212|1|1 Hastarii Fusilier Alpha|
 000004212|2|4 Hastarii Fusiliers|
-000004213|1|1 Knight Defender|
+000004213|1|1 Knight Destrier|
 000004214|1|1 Inquisitor Kroyle – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004215|1|1 Intranzia Fraye – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000004216|1|1 Commissar Yarrick – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
