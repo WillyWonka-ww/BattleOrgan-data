@@ -2852,7 +2852,7 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000001393|1|000008339||||Core|D3|
 000001393|2|000009894||||Faction||
 000001393|3|||Skyfire|Each time you target this model with the Fire Overwatch Stratagem just after an enemy unit that can Fly starts or ends a Normal, Advance or Fall Back move, when resolving that Stratagem, in addition to shooting that enemy unit, you can select up to 3 other enemy units within 24" of this model that can Fly; this model can also shoot at each of those units with its Firestorm scatter laser (provided each one is an eligible target), but when doing so, an unmodified Hit roll of 6 is required to score a hit.|Datasheet||
-000001394|1|000010857||||Core||
+000001394|1|000008346||||Core||
 000001394|2|||War Hymns|While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.|Datasheet||
 000001394|3|||Holy Piety|Each time this model makes a melee attack, unless this model’s unit is Battle-shocked, you can re-roll the Hit roll.|Datasheet||
 000001396|1|000008346||||Core||
@@ -4584,114 +4584,6 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000003602|1|000008339||||Core|D3|
 000003602|2|000008428||||Faction||
 000003602|3|||Bomb Rack|Each time this model ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound.|Datasheet||
-000003603|1|000011125||||Core|5|
-000003603|2|000008339||||Core|D3|
-000003603|3|000008343||||Core||
-000003603|4|000011158||||Faction||
-000003603|5|||Termite Assault|<ul><li>This unit must start the battle in strategic reserves.</li><li>In your first Movement phase, this unit can make an ingress move.</li><li>When this unit is set up, all units embarked within this unit must make a disembark/assault disembark move, and those units must be set up more than 8" away from all enemy units.</li></ul>|Datasheet||
-000003604|1|000011125||||Core|5|
-000003604|2|000008339||||Core|D3|
-000003604|3|000008343||||Core||
-000003604|4|000011158||||Faction||
-000003604|5|||Termite Assault|<ul><li>This unit must start the battle in strategic reserves.</li><li>In your first Movement phase, this unit can make an ingress move.</li><li>When this unit is set up, all units embarked within this unit must make a disembark/assault disembark move, and those units must be set up more than 8" away from all enemy units.</li></ul>|Datasheet||
-000003605|1|000011125||||Core|5|
-000003605|2|000008339||||Core|D3|
-000003605|3|000008343||||Core||
-000003605|4|000011158||||Faction||
-000003605|5|||Termite Assault|<ul><li>This unit must start the battle in strategic reserves.</li><li>In your first Movement phase, this unit can make an ingress move.</li><li>When this unit is set up, all units embarked within this unit must make a disembark/assault disembark move, and those units must be set up more than 8" away from all enemy units.</li></ul>|Datasheet||
-000003606|1|000011125||||Core|5|
-000003606|2|000008339||||Core|D3|
-000003606|3|000008343||||Core||
-000003606|4|000011158||||Faction||
-000003606|5|||Termite Assault|<ul><li>This unit must start the battle in strategic reserves.</li><li>In your first Movement phase, this unit can make an ingress move.</li><li>When this unit is set up, all units embarked within this unit must make a disembark/assault disembark move, and those units must be set up more than 8" away from all enemy units.</li></ul>|Datasheet||
-000003627|1|000011125||||Core|6|
-000003627|2|000008339||||Core|D6|
-000003627|3|000011158||||Faction||
-000003627|4|||Atomantic Arc-reactor|In a turn this unit remained stationary, this unit’s Cerberus Neutron Pulse Array ranged attacks have [LETHAL HITS].|Datasheet||
-000003628|1|000011125||||Core|6|
-000003628|2|000008339||||Core|D6|
-000003628|3|000011158||||Faction||
-000003628|4|||Atomantic Arc-reactor|In a turn this unit remained stationary, this unit’s Cerberus Neutron Pulse Array ranged attacks have [LETHAL HITS].|Datasheet||
-000003629|1|000011125||||Core|6|
-000003629|2|000008339||||Core|D6|
-000003629|3|000011158||||Faction||
-000003629|4|||Atomantic Arc-reactor|In a turn this unit remained stationary, this unit’s Cerberus Neutron Pulse Array ranged attacks have [LETHAL HITS].|Datasheet||
-000003630|1|000011125||||Core|6|
-000003630|2|000008339||||Core|D6|
-000003630|3|000011158||||Faction||
-000003630|4|||Atomantic Arc-reactor|In a turn this unit remained stationary, this unit’s Cerberus Neutron Pulse Array ranged attacks have [LETHAL HITS].|Datasheet||
-000003631|1|000011125||||Core|6|
-000003631|2|000008339||||Core|D6|
-000003631|3|000011158||||Faction||
-000003631|4|||Line-breaker|In your Shooting phase, when this unit is selected to shoot using close-quarters shooting:<br><ul><li>This unit’s attacks that target a unit engaged with this unit can ignore modifiers to:<br><ul><li><b>BS</b>.</li><li>Hit rolls.</li></ul></li></ul><ul><li>For each of this unit’s [Blast] weapons, you can choose for that weapon to not have [Blast]:<br><ul><li>If you do, that weapon can only target an enemy unit that is not engaged with another friendly unit.</li></ul></li></ul>|Datasheet||
-000003632|1|000011125||||Core|6|
-000003632|2|000008339||||Core|D6|
-000003632|3|000011158||||Faction||
-000003632|4|||Line-breaker|In your Shooting phase, when this unit is selected to shoot using close-quarters shooting:<br><ul><li>This unit’s attacks that target a unit engaged with this unit can ignore modifiers to:<br><ul><li><b>BS</b>.</li><li>Hit rolls.</li></ul></li></ul><ul><li>For each of this unit’s [Blast] weapons, you can choose for that weapon to not have [Blast]:<br><ul><li>If you do, that weapon can only target an enemy unit that is not engaged with another friendly unit.</li></ul></li></ul>|Datasheet||
-000003633|1|000011125||||Core|6|
-000003633|2|000008339||||Core|D6|
-000003633|3|000011158||||Faction||
-000003633|4|||Line-breaker|In your Shooting phase, when this unit is selected to shoot using close-quarters shooting:<br><ul><li>This unit’s attacks that target a unit engaged with this unit can ignore modifiers to:<br><ul><li><b>BS</b>.</li><li>Hit rolls.</li></ul></li></ul><ul><li>For each of this unit’s [Blast] weapons, you can choose for that weapon to not have [Blast]:<br><ul><li>If you do, that weapon can only target an enemy unit that is not engaged with another friendly unit.</li></ul></li></ul>|Datasheet||
-000003634|1|000011125||||Core|6|
-000003634|2|000008339||||Core|D6|
-000003634|3|000011158||||Faction||
-000003634|4|||Line-breaker|In your Shooting phase, when this unit is selected to shoot using close-quarters shooting:<br><ul><li>This unit’s attacks that target a unit engaged with this unit can ignore modifiers to:<br><ul><li><b>BS</b>.</li><li>Hit rolls.</li></ul></li></ul><ul><li>For each of this unit’s [Blast] weapons, you can choose for that weapon to not have [Blast]:<br><ul><li>If you do, that weapon can only target an enemy unit that is not engaged with another friendly unit.</li></ul></li></ul>|Datasheet||
-000003643|1|000011125||||Core|10|
-000003643|2|000008339||||Core|2D6|
-000003643|3|000011158||||Faction||
-000003643|4|||Inviolable Transport|Attacks allocated to this unit have -1 <b>D</b>.|Datasheet||
-000003644|1|000011125||||Core|10|
-000003644|2|000008339||||Core|2D6|
-000003644|3|000011158||||Faction||
-000003644|4|||Inviolable Transport|Attacks allocated to this unit have -1 <b>D</b>.|Datasheet||
-000003645|1|000011125||||Core|10|
-000003645|2|000008339||||Core|2D6|
-000003645|3|000011158||||Faction||
-000003645|4|||Inviolable Transport|Attacks allocated to this unit have -1 <b>D</b>.|Datasheet||
-000003646|1|000011125||||Core|10|
-000003646|2|000008339||||Core|2D6|
-000003646|3|000011158||||Faction||
-000003646|4|||Inviolable Transport|Attacks allocated to this unit have -1 <b>D</b>.|Datasheet||
-000003667|1|000011158||||Faction||
-000003667|2|||Powerful Volley|In a turn this unit remained stationary, ranged attacks that have [HEAVY] also have [LETHAL HITS].|Datasheet||
-000003668|1|000011158||||Faction||
-000003668|2|||Powerful Volley|In a turn this unit remained stationary, ranged attacks that have [HEAVY] also have [LETHAL HITS].|Datasheet||
-000003669|1|000011158||||Faction||
-000003669|2|||Powerful Volley|In a turn this unit remained stationary, ranged attacks that have [HEAVY] also have [LETHAL HITS].|Datasheet||
-000003670|1|000011158||||Faction||
-000003670|2|||Powerful Volley|In a turn this unit remained stationary, ranged attacks that have [HEAVY] also have [LETHAL HITS].|Datasheet||
-000003679|1|000011125||||Core|6|
-000003679|2|000008339||||Core|D6|
-000003679|3|000011158||||Faction||
-000003679|4|||Sunderer of Fortresses|This unit’s ranged attacks that:<br><ul><li>Target a <span class="kwb">VEHICLE</span> unit have +1 <b>S</b> and <b>D</b>.</li><li>Target a <span class="kwb">FORTIFICATION</span> unit have +2 <b>S</b> and <b>D</b>.</li></ul>|Datasheet||
-000003680|1|000011125||||Core|6|
-000003680|2|000008339||||Core|D6|
-000003680|3|000011158||||Faction||
-000003680|4|||Sunderer of Fortresses|This unit’s ranged attacks that:<br><ul><li>Target a <span class="kwb">VEHICLE</span> unit have +1 <b>S</b> and <b>D</b>.</li><li>Target a <span class="kwb">FORTIFICATION</span> unit have +2 <b>S</b> and <b>D</b>.</li></ul>|Datasheet||
-000003681|1|000011125||||Core|6|
-000003681|2|000008339||||Core|D6|
-000003681|3|000011158||||Faction||
-000003681|4|||Sunderer of Fortresses|This unit’s ranged attacks that:<br><ul><li>Target a <span class="kwb">VEHICLE</span> unit have +1 <b>S</b> and <b>D</b>.</li><li>Target a <span class="kwb">FORTIFICATION</span> unit have +2 <b>S</b> and <b>D</b>.</li></ul>|Datasheet||
-000003682|1|000011125||||Core|6|
-000003682|2|000008339||||Core|D6|
-000003682|3|000011158||||Faction||
-000003682|4|||Sunderer of Fortresses|This unit’s ranged attacks that:<br><ul><li>Target a <span class="kwb">VEHICLE</span> unit have +1 <b>S</b> and <b>D</b>.</li><li>Target a <span class="kwb">FORTIFICATION</span> unit have +2 <b>S</b> and <b>D</b>.</li></ul>|Datasheet||
-000003687|1|000008339||||Core|D6+2|
-000003687|2|000011125||||Core|8|
-000003687|3|000011158||||Faction||
-000003687|4|||Titan-killer|This unit’s Twin Falchion Volcano Cannon ranged attacks that target a <span class="kwb">MONSTER</span>/<span class="kwb">VEHICLE</span> unit have [DEVASTATING WOUNDS].|Datasheet||
-000003688|1|000008339||||Core|D6+2|
-000003688|2|000011125||||Core|8|
-000003688|3|000011158||||Faction||
-000003688|4|||Titan-killer|This unit’s Twin Falchion Volcano Cannon ranged attacks that target a <span class="kwb">MONSTER</span>/<span class="kwb">VEHICLE</span> unit have [DEVASTATING WOUNDS].|Datasheet||
-000003689|1|000008339||||Core|D6+2|
-000003689|2|000011125||||Core|8|
-000003689|3|000011158||||Faction||
-000003689|4|||Titan-killer|This unit’s Twin Falchion Volcano Cannon ranged attacks that target a <span class="kwb">MONSTER</span>/<span class="kwb">VEHICLE</span> unit have [DEVASTATING WOUNDS].|Datasheet||
-000003690|1|000008339||||Core|D6+2|
-000003690|2|000011125||||Core|8|
-000003690|3|000011158||||Faction||
-000003690|4|||Titan-killer|This unit’s Twin Falchion Volcano Cannon ranged attacks that target a <span class="kwb">MONSTER</span>/<span class="kwb">VEHICLE</span> unit have [DEVASTATING WOUNDS].|Datasheet||
 000003693|1|000008346||||Core||
 000003693|2|000008369||||Faction||
 000003693|3|||Resurrection Orb|(Once per battle, per unit) At the end of any phase, you can use this ability. If you do, this unit <b>resurrects</b>:<br><ul><li>When a unit resurrects, that unit’s Reanimation Protocols activate, but that unit heals D6 wounds (instead of D3 wounds). You cannot <b>resurrect</b> more than one unit per turn.</li></ul>|Wargear||
@@ -4902,6 +4794,7 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000003833|5|||Death Visions of Sanguinius|In the Fight phase, when an enemy unit has fought, if this model was destroyed by those attacks, you can use this ability. If you do, roll one D6, with +2 to that roll if this model was engaged with an enemy <span class="kwb">WARLORD</span> unit:<br><ul><li>On a 2-3, that enemy unit suffers D3 mortal wounds.</li><li>On a 4-5, that enemy unit suffers 3 <b>mortal wounds</b>.</li><li>On a 6+, that enemy unit suffers D3+3 <b>mortal wounds</b>.</li></ul>|Datasheet||
 000003833|6|||Lost to Fury|This unit’s melee attacks have [SUSTAINED HITS 1].|Datasheet||
 000003833|7|||Relic Shield|This model has +1 <b>W</b>.|Wargear||
+000003833|8|000008346||||Core||
 000003834|1|000008343||||Core||
 000003834|2|||Precision Drop|In your Movement phase, when this unit is set up on the battlefield using the Deep Strike ability, it can perform a precision drop. If it does, this unit can be set up anywhere on the battlefield that is more than 6" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge.|Datasheet||
 000003834|3|||Servo-sentry|When this unit is set up on the battlefield using the Deep Strike ability, the Tempestor Aquilon can shoot with its sentry weapon (its sentry flamer, sentry grenade launcher or sentry hot-shot volley gun).|Datasheet||
@@ -5739,6 +5632,7 @@ datasheet_id|line|ability_id|model|name|description|type|parameter|
 000004100|2|000008433||||Faction||
 000004100|3|||Tormentbringer (Aura)|While a friendly Slaanesh Legiones Daemonica unit is within 6" of this model, melee weapons in that unit have the [SUSTAINED HITS 1] ability.|Datasheet||
 000004100|4|||Hysterical Frenzy (Psychic)|Each time a model in this model’s unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.|Datasheet||
+000004100|5|000008346||||Core||
 000004103|1|000008339||||Core|D3|
 000004103|2|000008346||||Core||
 000004103|3|000008428||||Faction||
